@@ -1,0 +1,6 @@
+<map id="Pessoa::getNome" name="Pessoa::getNome">
+<area shape="rect" id="node1" title="Obtem o nome da pessoa." alt="" coords="552,13,679,39"/>
+<area shape="rect" id="node2" href="$classControladoraApresentacaoGerente.html#a02083717cf10f66af3ae82749177a4c3" title=" " alt="" coords="328,5,504,47"/>
+<area shape="rect" id="node3" href="$classControladoraApresentacaoGerente.html#a6093e8977af3b7c15f9360a032a0de33" title="Executa o menu de gerenciamento de gerentes." alt="" coords="104,5,280,47"/>
+<area shape="rect" id="node4" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="Funcao principal." alt="" coords="5,13,56,39"/>
+</map>

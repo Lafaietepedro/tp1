@@ -1,0 +1,6 @@
+<map id="ControladoraApresentacaoQuarto" name="ControladoraApresentacaoQuarto">
+<area shape="rect" id="node1" title="Implementa interface de gerenciamento de quartos." alt="" coords="177,233,365,428"/>
+<area shape="rect" id="node2" href="$classIApresentacaoQuarto.html" title="Interface para apresentacao de gerenciamento de quartos." alt="" coords="5,42,179,134"/>
+<area shape="rect" id="node3" href="$classIServicoHotel.html" title="Interface para servicos de gerenciamento de hoteis." alt="" coords="203,5,339,171"/>
+<area shape="rect" id="node4" href="$classIServicoQuarto.html" title="Interface para servicos de gerenciamento de quartos." alt="" coords="363,5,501,171"/>
+</map>

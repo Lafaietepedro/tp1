@@ -1,0 +1,5 @@
+<map id="ContainerQuartos::buscar" name="ContainerQuartos::buscar">
+<area shape="rect" id="node1" title="Busca um quarto." alt="" coords="5,31,176,57"/>
+<area shape="rect" id="node2" href="$classCodigo.html#ac85ddffb159c47c1f4963d7ac0e3c031" title="Obtem o codigo." alt="" coords="227,5,316,32"/>
+<area shape="rect" id="node3" href="$classNumero.html#a892b8fcee819b7437473a507d6389d94" title="Obtem o numero." alt="" coords="224,56,319,83"/>
+</map>

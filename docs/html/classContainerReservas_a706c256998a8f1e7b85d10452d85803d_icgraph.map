@@ -1,0 +1,4 @@
+<map id="ContainerReservas::contarPorQuarto" name="ContainerReservas::contarPorQuarto">
+<area shape="rect" id="node1" title="Conta reservas de um quarto." alt="" coords="232,5,375,47"/>
+<area shape="rect" id="node2" href="$classControladoraServicoQuarto.html#aadbbc216eee87b45de40b64f92ed479d" title="Remove um quarto." alt="" coords="5,5,184,47"/>
+</map>

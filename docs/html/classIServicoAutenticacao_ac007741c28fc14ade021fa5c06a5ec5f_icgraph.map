@@ -1,0 +1,5 @@
+<map id="IServicoAutenticacao::autenticar" name="IServicoAutenticacao::autenticar">
+<area shape="rect" id="node1" title="Autentica um gerente." alt="" coords="328,5,475,47"/>
+<area shape="rect" id="node2" href="$classControladoraApresentacaoAutenticacao.html#a0701c12226c8beab67aac0cff5d65fdf" title="Executa o fluxo de autenticacao." alt="" coords="104,5,280,47"/>
+<area shape="rect" id="node3" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="Funcao principal." alt="" coords="5,13,56,39"/>
+</map>

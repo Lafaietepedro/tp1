@@ -1,0 +1,4 @@
+<map id="ContainerQuartos::atualizar" name="ContainerQuartos::atualizar">
+<area shape="rect" id="node1" title="Atualiza um quarto." alt="" coords="232,13,413,39"/>
+<area shape="rect" id="node2" href="$classControladoraServicoQuarto.html#af1112dfd69acd029da822b4338a7540c" title="Atualiza dados de um quarto." alt="" coords="5,5,184,47"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="ControladoraServicoReserva::remover" name="ControladoraServicoReserva::remover">
+<area shape="rect" id="node1" title="Remove uma reserva." alt="" coords="5,39,195,80"/>
+<area shape="rect" id="node2" href="$classContainerHospedes.html#a1f7018ee1373776d868159e446cf2ba7" title="Conta hospedes de uma reserva." alt="" coords="243,5,388,47"/>
+<area shape="rect" id="node4" href="$classContainerReservas.html#ad2c8156b500e6119bfd141e1758354d4" title="Remove uma reserva." alt="" coords="244,71,387,112"/>
+<area shape="rect" id="node3" href="$classCodigo.html#ac85ddffb159c47c1f4963d7ac0e3c031" title="Obtem o codigo." alt="" coords="436,13,525,39"/>
+</map>

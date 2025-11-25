@@ -1,0 +1,7 @@
+<map id="ControladoraServicoReserva::verificarConflito" name="ControladoraServicoReserva::verificarConflito">
+<area shape="rect" id="node1" title="Verifica conflito de datas para um quarto." alt="" coords="5,19,195,61"/>
+<area shape="rect" id="node2" href="$classCodigo.html#ac85ddffb159c47c1f4963d7ac0e3c031" title="Obtem o codigo." alt="" coords="436,5,525,32"/>
+<area shape="rect" id="node3" href="$classData.html#a1de287c91558e56cb2f3034e5debe42e" title="Obtem a data." alt="" coords="276,27,352,53"/>
+<area shape="rect" id="node4" href="$classContainerReservas.html#a9f5122348a6784a104b6cc7dd9da397c" title="Lista reservas de um quarto." alt="" coords="243,78,385,119"/>
+<area shape="rect" id="node5" href="$classNumero.html#a892b8fcee819b7437473a507d6389d94" title="Obtem o numero." alt="" coords="433,85,528,112"/>
+</map>

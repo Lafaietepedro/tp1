@@ -1,0 +1,12 @@
+<map id="ContainerQuartos" name="ContainerQuartos">
+<area shape="rect" id="node1" title="Container para armazenamento de quartos em memoria." alt="" coords="250,883,379,1048"/>
+<area shape="rect" id="node2" title=" " alt="" coords="241,743,388,820"/>
+<area shape="rect" id="node3" href="$classQuarto.html" title="Representa um quarto de hotel." alt="" coords="249,471,381,680"/>
+<area shape="rect" id="node4" href="$classRamal.html" title="Representa um ramal telefonico de 00 a 50." alt="" coords="5,287,128,408"/>
+<area shape="rect" id="node5" href="$classCodigo.html" title="Representa um codigo alfanumerico de 10 caracteres (a&#45;z, 0&#45;9)" alt="" coords="153,294,229,401"/>
+<area shape="rect" id="node6" title=" " alt="" coords="151,147,231,224"/>
+<area shape="rect" id="node7" title=" " alt="" coords="127,5,254,97"/>
+<area shape="rect" id="node8" href="$classNumero.html" title="Representa um numero de quarto de 001 a 999." alt="" coords="253,287,376,408"/>
+<area shape="rect" id="node9" href="$classDinheiro.html" title="Representa um valor monetario de 0,01 a 1.000.000,00 (armazenado em centavos)" alt="" coords="400,287,523,408"/>
+<area shape="rect" id="node10" href="$classCapacidade.html" title="Representa a capacidade de um quarto (1, 2, 3 ou 4 pessoas)" alt="" coords="547,294,637,401"/>
+</map>

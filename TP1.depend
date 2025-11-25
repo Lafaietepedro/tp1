@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1763848992 source:d:\tp1-sistema-gestao-hoteis\src\apresentacao.cpp
+	"apresentacao.h"
+
+1763836424 d:\tp1-sistema-gestao-hoteis\include\apresentacao.h
+	"interfaces.h"
+	<iostream>
+	<limits>
+
+1763836319 d:\tp1-sistema-gestao-hoteis\include\interfaces.h
+	"entidades.h"
+	<vector>
+
+1763836274 d:\tp1-sistema-gestao-hoteis\include\entidades.h
+	"dominios.h"
+	<string>
+
+1763836196 d:\tp1-sistema-gestao-hoteis\include\dominios.h
+	<string>
+	<stdexcept>
+
+1763848958 source:d:\tp1-sistema-gestao-hoteis\src\dominios.cpp
+	"dominios.h"
+	<algorithm>
+	<cctype>
+	<sstream>
+	<iomanip>
+	<map>
+
+1763848958 source:d:\tp1-sistema-gestao-hoteis\src\entidades.cpp
+	"entidades.h"
+
+1763848958 source:d:\tp1-sistema-gestao-hoteis\src\main.cpp
+	"apresentacao.h"
+	"servico.h"
+	<iostream>
+
+1763850972 d:\tp1-sistema-gestao-hoteis\include\servico.h
+	"interfaces.h"
+	<vector>
+	<algorithm>
+	<fstream>
+	<sstream>
+
+1763851490 source:d:\tp1-sistema-gestao-hoteis\src\servico.cpp
+	"servico.h"
+	<iostream>
+	<sys/stat.h>
+	<sys/types.h>
+	<direct.h>
+

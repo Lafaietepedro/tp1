@@ -1,0 +1,7 @@
+<map id="Hotel::getCodigo" name="Hotel::getCodigo">
+<area shape="rect" id="node1" title="Obtem o codigo do hotel." alt="" coords="448,46,568,73"/>
+<area shape="rect" id="node2" href="$classContainerHoteis.html#a4c168a6e5b31d35767caf3b3de48f7b8" title="Adiciona um hotel." alt="" coords="224,17,400,43"/>
+<area shape="rect" id="node4" href="$classContainerHoteis.html#a49e974b54788fada133f5716a057fa6b" title="Atualiza um hotel." alt="" coords="225,71,399,98"/>
+<area shape="rect" id="node3" href="$classControladoraServicoHotel.html#a9c0a671bfe0b5a35ed74f1a0ad1eb3c5" title="Cria um novo hotel." alt="" coords="5,5,176,47"/>
+<area shape="rect" id="node5" href="$classControladoraServicoHotel.html#abe4f70dabbbcef9cb0a25f3f358b2bfe" title="Atualiza dados de um hotel." alt="" coords="5,71,176,112"/>
+</map>

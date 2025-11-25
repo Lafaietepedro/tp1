@@ -1,0 +1,6 @@
+<map id="IServicoHospede::listar" name="IServicoHospede::listar">
+<area shape="rect" id="node1" title="Lista todos os hospedes." alt="" coords="552,13,711,39"/>
+<area shape="rect" id="node2" href="$classControladoraApresentacaoHospede.html#ada96341a7d8b29703ebdfb30a887a758" title=" " alt="" coords="328,5,504,47"/>
+<area shape="rect" id="node3" href="$classControladoraApresentacaoHospede.html#aa76aed71365bc4d50e691181c096f156" title="Executa o menu de gerenciamento de hospedes." alt="" coords="104,5,280,47"/>
+<area shape="rect" id="node4" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="Funcao principal." alt="" coords="5,13,56,39"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="IServicoHotel" name="IServicoHotel">
+<area shape="rect" id="node1" title="Interface para servicos de gerenciamento de hoteis." alt="" coords="33,5,169,171"/>
+<area shape="rect" id="node2" href="$classControladoraServicoHotel.html" title="Implementa servicos de gerenciamento de hoteis." alt="" coords="5,219,196,399"/>
+</map>

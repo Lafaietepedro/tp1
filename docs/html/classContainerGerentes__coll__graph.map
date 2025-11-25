@@ -1,0 +1,11 @@
+<map id="ContainerGerentes" name="ContainerGerentes">
+<area shape="rect" id="node1" title="Container para armazenamento de gerentes em memoria." alt="" coords="106,1013,237,1149"/>
+<area shape="rect" id="node2" title=" " alt="" coords="94,873,249,951"/>
+<area shape="rect" id="node3" href="$classGerente.html" title="Representa um gerente de hotel (herda de Pessoa)" alt="" coords="123,719,220,811"/>
+<area shape="rect" id="node4" href="$classPessoa.html" title="Classe base que representa uma pessoa com nome e email." alt="" coords="76,548,171,669"/>
+<area shape="rect" id="node5" href="$classNome.html" title="Representa um nome com 5 a 20 caracteres (letras ou espacos)" alt="" coords="5,287,81,393"/>
+<area shape="rect" id="node6" title=" " alt="" coords="103,147,183,224"/>
+<area shape="rect" id="node8" href="$classEmail.html" title="Representa um endereco de email valido (parte&#45;local@dominio)" alt="" coords="105,287,181,393"/>
+<area shape="rect" id="node9" href="$classSenha.html" title="Representa uma senha com 5 caracteres (letras, digitos ou especiais)" alt="" coords="181,417,257,524"/>
+<area shape="rect" id="node7" title=" " alt="" coords="80,5,207,97"/>
+</map>

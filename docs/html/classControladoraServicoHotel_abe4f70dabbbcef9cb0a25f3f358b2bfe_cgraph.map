@@ -1,0 +1,6 @@
+<map id="ControladoraServicoHotel::atualizar" name="ControladoraServicoHotel::atualizar">
+<area shape="rect" id="node1" title="Atualiza dados de um hotel." alt="" coords="5,23,176,65"/>
+<area shape="rect" id="node2" href="$classContainerHoteis.html#a49e974b54788fada133f5716a057fa6b" title="Atualiza um hotel." alt="" coords="224,31,397,57"/>
+<area shape="rect" id="node3" href="$classCodigo.html#ac85ddffb159c47c1f4963d7ac0e3c031" title="Obtem o codigo." alt="" coords="461,5,550,32"/>
+<area shape="rect" id="node4" href="$classHotel.html#a076508ceddd66b732d6519e46ce6c22c" title="Obtem o codigo do hotel." alt="" coords="445,56,565,83"/>
+</map>

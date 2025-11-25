@@ -1,0 +1,6 @@
+<map id="ControladoraApresentacaoHospede::listarHospedes" name="ControladoraApresentacaoHospede::listarHospedes">
+<area shape="rect" id="node1" title=" " alt="" coords="5,23,181,65"/>
+<area shape="rect" id="node2" href="$classIServicoHospede.html#a5679203dad7cc448891da995ae4912e1" title="Lista todos os hospedes." alt="" coords="229,5,388,32"/>
+<area shape="rect" id="node3" href="$apresentacao_8cpp.html#a01a3f268deb31b1ffe17d947b6b62b71" title="Pausa a execucao ate o usuario pressionar Enter." alt="" coords="278,56,339,83"/>
+<area shape="rect" id="node4" href="$apresentacao_8cpp.html#aa4babdda3b35e146a545f567fcd13fb3" title="Limpa o buffer de entrada." alt="" coords="436,56,527,83"/>
+</map>

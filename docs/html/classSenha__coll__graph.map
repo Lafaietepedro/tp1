@@ -1,0 +1,5 @@
+<map id="Senha" name="Senha">
+<area shape="rect" id="node1" title="Representa uma senha com 5 caracteres (letras, digitos ou especiais)" alt="" coords="31,287,107,393"/>
+<area shape="rect" id="node2" title=" " alt="" coords="29,147,109,224"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,5,132,97"/>
+</map>

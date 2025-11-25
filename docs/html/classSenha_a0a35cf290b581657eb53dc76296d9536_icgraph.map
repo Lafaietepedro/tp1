@@ -1,0 +1,4 @@
+<map id="Senha::get" name="Senha::get">
+<area shape="rect" id="node1" title="Obtem a senha." alt="" coords="269,13,355,39"/>
+<area shape="rect" id="node2" href="$classControladoraServicoAutenticacao.html#a909591c901d1f7fde17db6bcdffcb3d7" title="Autentica um gerente." alt="" coords="5,5,221,47"/>
+</map>

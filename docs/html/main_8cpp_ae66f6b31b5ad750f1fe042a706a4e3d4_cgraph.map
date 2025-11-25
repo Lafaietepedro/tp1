@@ -1,0 +1,52 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title="Funcao principal." alt="" coords="5,1201,56,1227"/>
+<area shape="rect" id="node2" href="$classControladoraApresentacaoGerente.html#a6093e8977af3b7c15f9360a032a0de33" title="Executa o menu de gerenciamento de gerentes." alt="" coords="104,737,280,779"/>
+<area shape="rect" id="node6" href="$classEmail.html#a8fa1da6448b64f4ae89662984b10e6b6" title="Obtem o email." alt="" coords="598,111,679,138"/>
+<area shape="rect" id="node17" href="$classControladoraApresentacaoHotel.html#ac9e6bf64fed3d4a16114b5d0e2c3a323" title="Executa o menu de gerenciamento de hoteis." alt="" coords="104,1193,280,1235"/>
+<area shape="rect" id="node29" href="$classControladoraApresentacaoQuarto.html#a729e50b2e21cfb40adaca3bbeee4856c" title="Executa o menu de gerenciamento de quartos." alt="" coords="104,1007,280,1048"/>
+<area shape="rect" id="node34" href="$classControladoraApresentacaoReserva.html#ab1375a741082f239868406d32f08eb04" title="Executa o menu de gerenciamento de reservas." alt="" coords="104,1581,280,1623"/>
+<area shape="rect" id="node39" href="$classControladoraApresentacaoHospede.html#aa76aed71365bc4d50e691181c096f156" title="Executa o menu de gerenciamento de hospedes." alt="" coords="104,1320,280,1361"/>
+<area shape="rect" id="node44" href="$classControladoraApresentacaoAutenticacao.html#a0701c12226c8beab67aac0cff5d65fdf" title="Executa o fluxo de autenticacao." alt="" coords="104,325,280,367"/>
+<area shape="rect" id="node49" href="$apresentacao_8h.html#aa4babdda3b35e146a545f567fcd13fb3" title="Limpa o buffer de entrada." alt="" coords="147,1647,237,1674"/>
+<area shape="rect" id="node50" href="$apresentacao_8h.html#a04033226e000214f034cbc39a89955b5" title="Limpa a tela do console." alt="" coords="151,1698,233,1725"/>
+<area shape="rect" id="node3" href="$classControladoraApresentacaoGerente.html#a02083717cf10f66af3ae82749177a4c3" title=" " alt="" coords="328,475,504,516"/>
+<area shape="rect" id="node11" href="$apresentacao_8cpp.html#aa4babdda3b35e146a545f567fcd13fb3" title="Limpa o buffer de entrada." alt="" coords="773,1174,864,1201"/>
+<area shape="rect" id="node16" href="$apresentacao_8cpp.html#a04033226e000214f034cbc39a89955b5" title="Limpa a tela do console." alt="" coords="375,1138,457,1165"/>
+<area shape="rect" id="node4" href="$classIServicoGerente.html#a28feaf72aef2be6529878f0ecdec1662" title="Atualiza dados de um gerente." alt="" coords="552,338,725,365"/>
+<area shape="rect" id="node5" href="$classIServicoGerente.html#ac9c3bd4c61a3abd07526825a2c974957" title="Busca um gerente por email." alt="" coords="557,389,720,415"/>
+<area shape="rect" id="node7" href="$classNome.html#ac018899c816fa4f4f5fcf3375132360b" title="Obtem o nome." alt="" coords="597,541,680,567"/>
+<area shape="rect" id="node8" href="$classPessoa.html#a137a2a665a10ffa4880d1f7d726b07c7" title="Obtem o email da pessoa." alt="" coords="576,439,701,466"/>
+<area shape="rect" id="node9" href="$classPessoa.html#ad0c0448768ca2f5b5dfca86f156cdfe9" title="Obtem o nome da pessoa." alt="" coords="575,490,702,517"/>
+<area shape="rect" id="node10" href="$apresentacao_8cpp.html#a01a3f268deb31b1ffe17d947b6b62b71" title="Pausa a execucao ate o usuario pressionar Enter." alt="" coords="608,1199,669,1226"/>
+<area shape="rect" id="node12" href="$classNome.html#a6b1363639ee0442020d79c86f78e8762" title="Define o nome." alt="" coords="597,693,680,719"/>
+<area shape="rect" id="node13" href="$classSenha.html#a2b735f0b10104bc6ae02e08586633bc1" title="Define a senha." alt="" coords="596,186,681,213"/>
+<area shape="rect" id="node14" href="$classPessoa.html#a07eb389b22a0163d5d61617aa6c3fb64" title="Define o nome da pessoa." alt="" coords="575,237,702,263"/>
+<area shape="rect" id="node15" href="$classGerente.html#a6119cd362a7f0687ed613f77a76e1c7b" title="Define a senha do gerente." alt="" coords="573,287,704,314"/>
+<area shape="rect" id="node18" href="$classControladoraApresentacaoHotel.html#ad69e89b4c91c7de2cd58e548621ead4d" title=" " alt="" coords="328,759,504,800"/>
+<area shape="rect" id="node26" href="$classControladoraApresentacaoHotel.html#aac9956c65c1b925f439aa20de6cd62d5" title=" " alt="" coords="328,693,504,735"/>
+<area shape="rect" id="node27" href="$classControladoraApresentacaoHotel.html#a2b660a8b07a57d2fdd20984c78c38cdb" title=" " alt="" coords="328,1385,504,1427"/>
+<area shape="rect" id="node28" href="$classControladoraApresentacaoHotel.html#aaaef59fe3fac020ff7a5ea93940655e1" title=" " alt="" coords="328,1255,504,1296"/>
+<area shape="rect" id="node19" href="$classIServicoHotel.html#a8a92cb077eb9f9fe8b82a3b36b176457" title="Cria um novo hotel." alt="" coords="571,946,706,973"/>
+<area shape="rect" id="node20" href="$classCodigo.html#a72b57b491a9fd290afbb9afbde059e86" title="Define o codigo." alt="" coords="594,1289,683,1315"/>
+<area shape="rect" id="node21" href="$classEndereco.html#a575be1188d2276c71cdcc635d51eaa2f" title="Define o endereco." alt="" coords="587,1098,690,1125"/>
+<area shape="rect" id="node22" href="$classTelefone.html#a442b96c2e31c556a0722e9a8212c6629" title="Define o telefone." alt="" coords="590,794,687,821"/>
+<area shape="rect" id="node23" href="$classHotel.html#a7223505d8a806cf8bd0d410c0893f35d" title="Define o codigo do hotel." alt="" coords="579,845,699,871"/>
+<area shape="rect" id="node24" href="$classHotel.html#aac1c59829f2afe5b94f1fba6a31ce09d" title="Define o email do gerente responsavel." alt="" coords="559,895,718,922"/>
+<area shape="rect" id="node25" href="$classHotel.html#a74d41a3fbd3555a1f3eaa4fa8b59658a" title="Define o endereco do hotel." alt="" coords="571,743,706,770"/>
+<area shape="rect" id="node30" href="$classControladoraApresentacaoQuarto.html#a22b711da7e9d4c2569073b809d8d3dcd" title=" " alt="" coords="328,941,504,983"/>
+<area shape="rect" id="node31" href="$classControladoraApresentacaoQuarto.html#a48beafa281e0f1ad4fbc53d170a2f633" title=" " alt="" coords="328,1007,504,1048"/>
+<area shape="rect" id="node32" href="$classControladoraApresentacaoQuarto.html#a55c9b1ceedb7f0bb7a5f56e5f0cff3d0" title=" " alt="" coords="328,876,504,917"/>
+<area shape="rect" id="node33" href="$classControladoraApresentacaoQuarto.html#a86cae849f2fa78f6ab81e3f820563d08" title=" " alt="" coords="328,1072,504,1113"/>
+<area shape="rect" id="node35" href="$classControladoraApresentacaoReserva.html#accf46527055b7af6e1cd7637b11310bf" title=" " alt="" coords="328,1777,504,1819"/>
+<area shape="rect" id="node36" href="$classControladoraApresentacaoReserva.html#af139644440821b77a15e14db6a683033" title=" " alt="" coords="328,1712,504,1753"/>
+<area shape="rect" id="node37" href="$classControladoraApresentacaoReserva.html#a29666e99d4931ce9b2176cc71934221e" title=" " alt="" coords="328,1647,504,1688"/>
+<area shape="rect" id="node38" href="$classControladoraApresentacaoReserva.html#a9660572290a95f94e3c7897ffffd93b7" title=" " alt="" coords="328,1581,504,1623"/>
+<area shape="rect" id="node40" href="$classControladoraApresentacaoHospede.html#a38e0c233fdd63458ebbf8ecbc58ffe2d" title=" " alt="" coords="328,1320,504,1361"/>
+<area shape="rect" id="node41" href="$classControladoraApresentacaoHospede.html#aeedfbbec0d406037b43f274ee9aba05f" title=" " alt="" coords="328,1189,504,1231"/>
+<area shape="rect" id="node42" href="$classControladoraApresentacaoHospede.html#a1caba8b3ccdf4a5f07fa9836b21db084" title=" " alt="" coords="328,1451,504,1492"/>
+<area shape="rect" id="node43" href="$classControladoraApresentacaoHospede.html#ada96341a7d8b29703ebdfb30a887a758" title=" " alt="" coords="328,1516,504,1557"/>
+<area shape="rect" id="node45" href="$classIServicoAutenticacao.html#ac007741c28fc14ade021fa5c06a5ec5f" title="Autentica um gerente." alt="" coords="343,409,489,451"/>
+<area shape="rect" id="node46" href="$classIServicoAutenticacao.html#a1400d64eaffb72e53c0f8539a4654980" title="Cria uma nova conta de gerente." alt="" coords="343,89,489,131"/>
+<area shape="rect" id="node47" href="$classEmail.html#a2fa13794c8a264fac6185f5e224b37b0" title="Define o email." alt="" coords="375,155,457,182"/>
+<area shape="rect" id="node48" href="$classPessoa.html#aaa2c0e6dddfbf2e1a3c6218706ecb325" title="Define o email da pessoa." alt="" coords="353,358,479,385"/>
+</map>

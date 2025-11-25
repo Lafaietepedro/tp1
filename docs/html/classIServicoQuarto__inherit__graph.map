@@ -1,0 +1,4 @@
+<map id="IServicoQuarto" name="IServicoQuarto">
+<area shape="rect" id="node1" title="Interface para servicos de gerenciamento de quartos." alt="" coords="36,5,173,171"/>
+<area shape="rect" id="node2" href="$classControladoraServicoQuarto.html" title="Implementa servicos de gerenciamento de quartos." alt="" coords="5,219,204,399"/>
+</map>

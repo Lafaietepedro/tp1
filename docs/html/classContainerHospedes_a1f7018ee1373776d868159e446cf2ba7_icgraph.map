@@ -1,0 +1,4 @@
+<map id="ContainerHospedes::contarPorReserva" name="ContainerHospedes::contarPorReserva">
+<area shape="rect" id="node1" title="Conta hospedes de uma reserva." alt="" coords="243,5,388,47"/>
+<area shape="rect" id="node2" href="$classControladoraServicoReserva.html#a3dd5fa5578c06ec595f8a3f953e95b64" title="Remove uma reserva." alt="" coords="5,5,195,47"/>
+</map>

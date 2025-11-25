@@ -1,0 +1,4 @@
+<map id="ControladoraServicoHospede" name="ControladoraServicoHospede">
+<area shape="rect" id="node1" title="Implementa servicos de gerenciamento de hospedes." alt="" coords="5,204,217,355"/>
+<area shape="rect" id="node2" href="$classIServicoHospede.html" title="Interface para servicos de gerenciamento de hospedes." alt="" coords="36,5,187,156"/>
+</map>

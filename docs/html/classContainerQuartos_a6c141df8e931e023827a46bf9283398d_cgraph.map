@@ -1,0 +1,4 @@
+<map id="ContainerQuartos::contarPorHotel" name="ContainerQuartos::contarPorHotel">
+<area shape="rect" id="node1" title="Conta quartos de um hotel." alt="" coords="5,5,173,47"/>
+<area shape="rect" id="node2" href="$classCodigo.html#ac85ddffb159c47c1f4963d7ac0e3c031" title="Obtem o codigo." alt="" coords="221,13,311,39"/>
+</map>

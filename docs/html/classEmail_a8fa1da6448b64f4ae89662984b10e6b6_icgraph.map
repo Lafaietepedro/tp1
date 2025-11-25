@@ -1,0 +1,15 @@
+<map id="Email::get" name="Email::get">
+<area shape="rect" id="node1" title="Obtem o email." alt="" coords="592,242,673,269"/>
+<area shape="rect" id="node2" href="$classContainerGerentes.html#a2015e402d9681f20110742330ed3e444" title="Adiciona um gerente." alt="" coords="387,23,525,64"/>
+<area shape="rect" id="node4" href="$classContainerGerentes.html#a5b697500b3dd9bf1b9704b287c9732be" title="Atualiza um gerente." alt="" coords="387,104,525,145"/>
+<area shape="rect" id="node6" href="$classContainerGerentes.html#a462fa97b59f94db9ee8bfc67eba9eb18" title="Busca um gerente por email." alt="" coords="387,201,525,243"/>
+<area shape="rect" id="node9" href="$classControladoraApresentacaoGerente.html#a02083717cf10f66af3ae82749177a4c3" title=" " alt="" coords="368,267,544,308"/>
+<area shape="rect" id="node11" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="Funcao principal." alt="" coords="5,303,56,330"/>
+<area shape="rect" id="node12" href="$classContainerHoteis.html#aeaad01ae9ac256578809f39cd71d860f" title="Lista hoteis de um gerente." alt="" coords="370,384,542,425"/>
+<area shape="rect" id="node3" href="$classControladoraServicoAutenticacao.html#ad138dc7a2b086bffe2fc322188df0525" title="Cria uma nova conta de gerente." alt="" coords="104,5,320,47"/>
+<area shape="rect" id="node5" href="$classControladoraServicoGerente.html#ad8545125ccf55c6756910d4c00869728" title="Atualiza dados de um gerente." alt="" coords="119,71,305,112"/>
+<area shape="rect" id="node7" href="$classControladoraServicoAutenticacao.html#a909591c901d1f7fde17db6bcdffcb3d7" title="Autentica um gerente." alt="" coords="104,136,320,177"/>
+<area shape="rect" id="node8" href="$classControladoraServicoGerente.html#a907db1d93f348e24a19d712080ed5686" title="Busca um gerente por email." alt="" coords="119,201,305,243"/>
+<area shape="rect" id="node10" href="$classControladoraApresentacaoGerente.html#a6093e8977af3b7c15f9360a032a0de33" title="Executa o menu de gerenciamento de gerentes." alt="" coords="124,267,300,308"/>
+<area shape="rect" id="node13" href="$classControladoraServicoHotel.html#a3cc7795c91101cac7fb1cc0b5b5cd2ea" title="Lista hoteis de um gerente." alt="" coords="127,384,297,425"/>
+</map>

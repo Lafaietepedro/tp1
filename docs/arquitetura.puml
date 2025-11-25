@@ -1,0 +1,165 @@
+@startuml Arquitetura_Sistema_Gestao_Hoteis
+
+!define COMPONENT_BG_COLOR #E8F5E9
+!define INTERFACE_BG_COLOR #FFF9C4
+
+title Diagrama de Arquitetura - Sistema de Gestão de Hotéis
+
+package "Camada de Apresentação" as apresentacao #BBDEFB {
+    component "ControladoraApresentacaoAutenticacao" as ApresAutent
+    component "ControladoraApresentacaoGerente" as ApresGerente
+    component "ControladoraApresentacaoHotel" as ApresHotel
+    component "ControladoraApresentacaoQuarto" as ApresQuarto
+    component "ControladoraApresentacaoReserva" as ApresReserva
+    component "ControladoraApresentacaoHospede" as ApresHospede
+}
+
+package "Interfaces de Apresentação" as interfacesApres #FFF9C4 {
+    interface "IApresentacaoAutenticacao" as IApresAutent
+    interface "IApresentacaoGerente" as IApresGerente
+    interface "IApresentacaoHotel" as IApresHotel
+    interface "IApresentacaoQuarto" as IApresQuarto
+    interface "IApresentacaoReserva" as IApresReserva
+    interface "IApresentacaoHospede" as IApresHospede
+}
+
+package "Interfaces de Serviço" as interfacesServ #FFF9C4 {
+    interface "IServicoAutenticacao" as IServAutent
+    interface "IServicoGerente" as IServGerente
+    interface "IServicoHotel" as IServHotel
+    interface "IServicoQuarto" as IServQuarto
+    interface "IServicoReserva" as IServReserva
+    interface "IServicoHospede" as IServHospede
+}
+
+package "Camada de Serviço" as servico #C8E6C9 {
+    component "ControladoraServicoAutenticacao" as ServAutent
+    component "ControladoraServicoGerente" as ServGerente
+    component "ControladoraServicoHotel" as ServHotel
+    component "ControladoraServicoQuarto" as ServQuarto
+    component "ControladoraServicoReserva" as ServReserva
+    component "ControladoraServicoHospede" as ServHospede
+    
+    component "ContainerGerentes" as ContGerentes
+    component "ContainerHoteis" as ContHoteis
+    component "ContainerQuartos" as ContQuartos
+    component "ContainerReservas" as ContReservas
+    component "ContainerHospedes" as ContHospedes
+}
+
+package "Módulo Entidades" as entidades #FFECB3 {
+    component "Pessoa" as Pessoa
+    component "Gerente" as Gerente
+    component "Hotel" as Hotel
+    component "Quarto" as Quarto
+    component "Reserva" as Reserva
+    component "Hospede" as Hospede
+}
+
+package "Módulo Domínios" as dominios #FFE0B2 {
+    component "Capacidade" as Capacidade
+    component "Cartao" as Cartao
+    component "Codigo" as Codigo
+    component "Data" as Data
+    component "Dinheiro" as Dinheiro
+    component "Email" as Email
+    component "Endereco" as Endereco
+    component "Nome" as Nome
+    component "Numero" as Numero
+    component "Ramal" as Ramal
+    component "Senha" as Senha
+    component "Telefone" as Telefone
+}
+
+' Relacionamentos Apresentação -> Interfaces Apresentação
+ApresAutent ..|> IApresAutent
+ApresGerente ..|> IApresGerente
+ApresHotel ..|> IApresHotel
+ApresQuarto ..|> IApresQuarto
+ApresReserva ..|> IApresReserva
+ApresHospede ..|> IApresHospede
+
+' Relacionamentos Apresentação -> Interfaces Serviço
+ApresAutent --> IServAutent
+ApresGerente --> IServGerente
+ApresHotel --> IServHotel
+ApresQuarto --> IServQuarto
+ApresReserva --> IServReserva
+ApresHospede --> IServHospede
+
+' Relacionamentos Serviço -> Interfaces Serviço
+ServAutent ..|> IServAutent
+ServGerente ..|> IServGerente
+ServHotel ..|> IServHotel
+ServQuarto ..|> IServQuarto
+ServReserva ..|> IServReserva
+ServHospede ..|> IServHospede
+
+' Relacionamentos Serviço -> Contêineres
+ServAutent --> ContGerentes
+ServGerente --> ContGerentes
+ServHotel --> ContHoteis
+ServHotel --> ContQuartos
+ServQuarto --> ContQuartos
+ServQuarto --> ContReservas
+ServReserva --> ContReservas
+ServReserva --> ContHospedes
+ServHospede --> ContHospedes
+
+' Relacionamentos Contêineres -> Entidades
+ContGerentes --> Gerente
+ContHoteis --> Hotel
+ContQuartos --> Quarto
+ContReservas --> Reserva
+ContHospedes --> Hospede
+
+' Relacionamentos Entidades -> Domínios
+Gerente --> Pessoa
+Pessoa --> Nome
+Pessoa --> Email
+Gerente --> Senha
+Hotel --> Nome
+Hotel --> Endereco
+Hotel --> Telefone
+Hotel --> Codigo
+Quarto --> Numero
+Quarto --> Capacidade
+Quarto --> Dinheiro
+Quarto --> Ramal
+Reserva --> Data
+Reserva --> Dinheiro
+Reserva --> Codigo
+Hospede --> Endereco
+Hospede --> Cartao
+
+note right of apresentacao
+  Responsabilidade:
+  - Interface com usuário (cin/cout)
+  - Validação de entrada
+  - Controle de fluxo de telas
+  - Captura de exceções
+end note
+
+note right of servico
+  Responsabilidade:
+  - Lógica de negócio
+  - Armazenamento em memória
+  - Validação de regras
+  - Controle de integridade
+end note
+
+note right of entidades
+  Responsabilidade:
+  - Representar entidades do negócio
+  - Composição de domínios
+  - Métodos set/get
+end note
+
+note right of dominios
+  Responsabilidade:
+  - Validação de tipos de dados
+  - Lançamento de exceções
+  - Métodos set/get
+end note
+
+@enduml

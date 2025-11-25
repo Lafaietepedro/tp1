@@ -1,0 +1,5 @@
+<map id="ContainerHospedes::adicionar" name="ContainerHospedes::adicionar">
+<area shape="rect" id="node1" title="Adiciona um hospede." alt="" coords="5,23,151,65"/>
+<area shape="rect" id="node2" href="$classCartao.html#a315ff9ea8b9d11ab98c64a84b1870e66" title="Obtem o numero do cartao." alt="" coords="225,5,311,32"/>
+<area shape="rect" id="node3" href="$classHospede.html#ab438db2528da9fed95539e1baf7371b5" title="Obtem o cartao do hospede." alt="" coords="199,56,337,83"/>
+</map>

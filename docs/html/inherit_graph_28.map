@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classPessoa.html" title="Classe base que representa uma pessoa com nome e email." alt="" coords="5,5,72,32"/>
+<area shape="rect" id="node2" href="$classGerente.html" title="Representa um gerente de hotel (herda de Pessoa)" alt="" coords="120,5,188,32"/>
+</map>

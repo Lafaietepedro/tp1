@@ -1,0 +1,7 @@
+<map id="Quarto::getCodigoHotel" name="Quarto::getCodigoHotel">
+<area shape="rect" id="node1" title="Obtem o codigo do hotel ao qual pertence." alt="" coords="464,46,623,73"/>
+<area shape="rect" id="node2" href="$classContainerQuartos.html#a931fd9994e49142ec6be6dd271b97c53" title="Adiciona um quarto." alt="" coords="232,17,416,43"/>
+<area shape="rect" id="node4" href="$classContainerQuartos.html#aae3775f701127156d588cd64b70940ad" title="Atualiza um quarto." alt="" coords="233,71,415,98"/>
+<area shape="rect" id="node3" href="$classControladoraServicoQuarto.html#ae92b97d58060838301adb6d5c64e6198" title="Cria um novo quarto." alt="" coords="5,5,184,47"/>
+<area shape="rect" id="node5" href="$classControladoraServicoQuarto.html#af1112dfd69acd029da822b4338a7540c" title="Atualiza dados de um quarto." alt="" coords="5,71,184,112"/>
+</map>

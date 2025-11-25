@@ -1,0 +1,10 @@
+<map id="limparTela" name="limparTela">
+<area shape="rect" id="node1" title="Limpa a tela do console." alt="" coords="328,195,409,222"/>
+<area shape="rect" id="node2" href="$classControladoraApresentacaoGerente.html#a6093e8977af3b7c15f9360a032a0de33" title="Executa o menu de gerenciamento de gerentes." alt="" coords="104,5,280,47"/>
+<area shape="rect" id="node3" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="Funcao principal." alt="" coords="5,195,56,222"/>
+<area shape="rect" id="node4" href="$classControladoraApresentacaoHotel.html#ac9e6bf64fed3d4a16114b5d0e2c3a323" title="Executa o menu de gerenciamento de hoteis." alt="" coords="104,123,280,164"/>
+<area shape="rect" id="node5" href="$classControladoraApresentacaoQuarto.html#a729e50b2e21cfb40adaca3bbeee4856c" title="Executa o menu de gerenciamento de quartos." alt="" coords="104,188,280,229"/>
+<area shape="rect" id="node6" href="$classControladoraApresentacaoReserva.html#ab1375a741082f239868406d32f08eb04" title="Executa o menu de gerenciamento de reservas." alt="" coords="104,253,280,295"/>
+<area shape="rect" id="node7" href="$classControladoraApresentacaoHospede.html#aa76aed71365bc4d50e691181c096f156" title="Executa o menu de gerenciamento de hospedes." alt="" coords="104,319,280,360"/>
+<area shape="rect" id="node8" href="$classControladoraApresentacaoAutenticacao.html#a0701c12226c8beab67aac0cff5d65fdf" title="Executa o fluxo de autenticacao." alt="" coords="104,384,280,425"/>
+</map>

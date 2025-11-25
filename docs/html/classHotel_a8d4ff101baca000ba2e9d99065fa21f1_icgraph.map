@@ -1,0 +1,7 @@
+<map id="Hotel::setNome" name="Hotel::setNome">
+<area shape="rect" id="node1" title="Define o nome do hotel." alt="" coords="552,46,667,73"/>
+<area shape="rect" id="node2" href="$classControladoraApresentacaoHotel.html#ad69e89b4c91c7de2cd58e548621ead4d" title=" " alt="" coords="328,5,504,47"/>
+<area shape="rect" id="node5" href="$classControladoraApresentacaoHotel.html#aac9956c65c1b925f439aa20de6cd62d5" title=" " alt="" coords="328,71,504,112"/>
+<area shape="rect" id="node3" href="$classControladoraApresentacaoHotel.html#ac9e6bf64fed3d4a16114b5d0e2c3a323" title="Executa o menu de gerenciamento de hoteis." alt="" coords="104,39,280,80"/>
+<area shape="rect" id="node4" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="Funcao principal." alt="" coords="5,46,56,73"/>
+</map>

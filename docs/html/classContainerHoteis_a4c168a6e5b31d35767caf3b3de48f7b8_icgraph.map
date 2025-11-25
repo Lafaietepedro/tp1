@@ -1,0 +1,4 @@
+<map id="ContainerHoteis::adicionar" name="ContainerHoteis::adicionar">
+<area shape="rect" id="node1" title="Adiciona um hotel." alt="" coords="224,13,400,39"/>
+<area shape="rect" id="node2" href="$classControladoraServicoHotel.html#a9c0a671bfe0b5a35ed74f1a0ad1eb3c5" title="Cria um novo hotel." alt="" coords="5,5,176,47"/>
+</map>

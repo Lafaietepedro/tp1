@@ -1,0 +1,4 @@
+<map id="IApresentacaoHospede" name="IApresentacaoHospede">
+<area shape="rect" id="node1" title="Interface para apresentacao de gerenciamento de hospedes." alt="" coords="6,5,193,97"/>
+<area shape="rect" id="node2" href="$classControladoraApresentacaoHospede.html" title="Implementa interface de gerenciamento de hospedes." alt="" coords="5,145,193,355"/>
+</map>

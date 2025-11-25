@@ -1,0 +1,10 @@
+<map id="include/entidades.h" name="include/entidades.h">
+<area shape="rect" id="node1" title="Declaracao das classes de entidade do sistema de gestao de hoteis." alt="" coords="226,5,361,32"/>
+<area shape="rect" id="node2" href="$interfaces_8h.html" title="Declaracao das interfaces entre modulos (classes abstratas)" alt="" coords="149,80,283,107"/>
+<area shape="rect" id="node8" href="$entidades_8cpp.html" title="Implementacao das classes de entidade do sistema de gestao de hoteis." alt="" coords="308,80,433,107"/>
+<area shape="rect" id="node3" href="$apresentacao_8h.html" title="Declaracao das classes da camada de apresentacao." alt="" coords="57,155,213,181"/>
+<area shape="rect" id="node6" href="$servico_8h.html" title="Declaracao das classes da camada de servico (controladoras e containers)" alt="" coords="237,155,357,181"/>
+<area shape="rect" id="node4" href="$apresentacao_8cpp.html" title="Implementacao das classes da camada de apresentacao." alt="" coords="5,229,152,256"/>
+<area shape="rect" id="node5" href="$main_8cpp.html" title="Programa principal do sistema de gestao de hoteis." alt="" coords="177,229,274,256"/>
+<area shape="rect" id="node7" href="$servico_8cpp.html" title="Implementacao das classes da camada de servico." alt="" coords="298,229,409,256"/>
+</map>

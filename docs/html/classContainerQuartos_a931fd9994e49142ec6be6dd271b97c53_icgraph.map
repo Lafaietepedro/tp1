@@ -1,0 +1,4 @@
+<map id="ContainerQuartos::adicionar" name="ContainerQuartos::adicionar">
+<area shape="rect" id="node1" title="Adiciona um quarto." alt="" coords="232,13,416,39"/>
+<area shape="rect" id="node2" href="$classControladoraServicoQuarto.html#ae92b97d58060838301adb6d5c64e6198" title="Cria um novo quarto." alt="" coords="5,5,184,47"/>
+</map>

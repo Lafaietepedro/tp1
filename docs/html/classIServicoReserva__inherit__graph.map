@@ -1,0 +1,4 @@
+<map id="IServicoReserva" name="IServicoReserva">
+<area shape="rect" id="node1" title="Interface para servicos de gerenciamento de reservas." alt="" coords="37,5,183,171"/>
+<area shape="rect" id="node2" href="$classControladoraServicoReserva.html" title="Implementa servicos de gerenciamento de reservas." alt="" coords="5,219,215,399"/>
+</map>

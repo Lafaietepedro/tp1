@@ -1,0 +1,4 @@
+<map id="ContainerHospedes::remover" name="ContainerHospedes::remover">
+<area shape="rect" id="node1" title="Remove um hospede." alt="" coords="245,5,391,47"/>
+<area shape="rect" id="node2" href="$classControladoraServicoHospede.html#a44c537f7f55e1f4fc6f5fd6ad875a10c" title="Remove um hospede." alt="" coords="5,5,197,47"/>
+</map>

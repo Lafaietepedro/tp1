@@ -1,0 +1,9 @@
+<map id="ControladoraApresentacaoHospede::excluirHospede" name="ControladoraApresentacaoHospede::excluirHospede">
+<area shape="rect" id="node1" title=" " alt="" coords="5,49,181,90"/>
+<area shape="rect" id="node2" href="$apresentacao_8cpp.html#a01a3f268deb31b1ffe17d947b6b62b71" title="Pausa a execucao ate o usuario pressionar Enter." alt="" coords="287,5,349,32"/>
+<area shape="rect" id="node4" href="$classIServicoHospede.html#ab49bbc214248d158b5b9390deedd7a1f" title="Remove um hospede." alt="" coords="229,56,407,83"/>
+<area shape="rect" id="node5" href="$classCartao.html#aa246c98ad23403d7628b2fe80812eafe" title="Define o numero do cartao." alt="" coords="275,107,361,133"/>
+<area shape="rect" id="node3" href="$apresentacao_8cpp.html#aa4babdda3b35e146a545f567fcd13fb3" title="Limpa o buffer de entrada." alt="" coords="463,5,553,32"/>
+<area shape="rect" id="node6" href="$classCartao.html#acb58b558a6dd0d0d90e243fe659fb473" title=" " alt="" coords="455,107,561,133"/>
+<area shape="rect" id="node7" href="$classCartao.html#a8008bdf3e395919a7bdca53f81db434d" title=" " alt="" coords="609,107,744,133"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="ContainerHospedes::listar" name="ContainerHospedes::listar">
+<area shape="rect" id="node1" title="Lista todos os hospedes." alt="" coords="245,5,391,47"/>
+<area shape="rect" id="node2" href="$classControladoraServicoHospede.html#aae40461ad78d9b80f40b8429ada8db86" title="Lista todos os hospedes." alt="" coords="5,5,197,47"/>
+</map>

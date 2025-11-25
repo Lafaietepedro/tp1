@@ -1,0 +1,6 @@
+<map id="ControladoraServicoHotel::remover" name="ControladoraServicoHotel::remover">
+<area shape="rect" id="node1" title="Remove um hotel." alt="" coords="5,35,176,76"/>
+<area shape="rect" id="node2" href="$classContainerQuartos.html#a6c141df8e931e023827a46bf9283398d" title="Conta quartos de um hotel." alt="" coords="225,5,393,47"/>
+<area shape="rect" id="node4" href="$classContainerHoteis.html#aad57f35f8924dea9c9b8d00ce17a2190" title="Remove um hotel." alt="" coords="224,71,395,98"/>
+<area shape="rect" id="node3" href="$classCodigo.html#ac85ddffb159c47c1f4963d7ac0e3c031" title="Obtem o codigo." alt="" coords="443,13,532,39"/>
+</map>

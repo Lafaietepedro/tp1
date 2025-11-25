@@ -1,0 +1,7 @@
+<map id="ControladoraApresentacaoReserva" name="ControladoraApresentacaoReserva">
+<area shape="rect" id="node1" title="Implementa interface de gerenciamento de reservas." alt="" coords="267,233,455,428"/>
+<area shape="rect" id="node2" href="$classIApresentacaoReserva.html" title="Interface para apresentacao de gerenciamento de reservas." alt="" coords="5,42,188,134"/>
+<area shape="rect" id="node3" href="$classIServicoHotel.html" title="Interface para servicos de gerenciamento de hoteis." alt="" coords="213,5,349,171"/>
+<area shape="rect" id="node4" href="$classIServicoQuarto.html" title="Interface para servicos de gerenciamento de quartos." alt="" coords="373,5,511,171"/>
+<area shape="rect" id="node5" href="$classIServicoReserva.html" title="Interface para servicos de gerenciamento de reservas." alt="" coords="535,5,682,171"/>
+</map>

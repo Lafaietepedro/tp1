@@ -1,0 +1,5 @@
+<map id="ControladoraServicoHotel::listarPorGerente" name="ControladoraServicoHotel::listarPorGerente">
+<area shape="rect" id="node1" title="Lista hoteis de um gerente." alt="" coords="5,5,176,47"/>
+<area shape="rect" id="node2" href="$classContainerHoteis.html#aeaad01ae9ac256578809f39cd71d860f" title="Lista hoteis de um gerente." alt="" coords="224,5,396,47"/>
+<area shape="rect" id="node3" href="$classEmail.html#a8fa1da6448b64f4ae89662984b10e6b6" title="Obtem o email." alt="" coords="444,13,525,39"/>
+</map>

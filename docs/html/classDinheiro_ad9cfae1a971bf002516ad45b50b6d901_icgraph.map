@@ -1,0 +1,11 @@
+<map id="Dinheiro::validar" name="Dinheiro::validar">
+<area shape="rect" id="node1" title=" " alt="" coords="696,111,812,138"/>
+<area shape="rect" id="node2" href="$classDinheiro.html#a79641fae938a717c5a322db9ff5f9876" title="Define o valor em centavos." alt="" coords="552,111,648,138"/>
+<area shape="rect" id="node3" href="$classControladoraApresentacaoQuarto.html#a22b711da7e9d4c2569073b809d8d3dcd" title=" " alt="" coords="328,5,504,47"/>
+<area shape="rect" id="node6" href="$classControladoraApresentacaoReserva.html#accf46527055b7af6e1cd7637b11310bf" title=" " alt="" coords="328,136,504,177"/>
+<area shape="rect" id="node8" href="$classControladoraApresentacaoQuarto.html#a48beafa281e0f1ad4fbc53d170a2f633" title=" " alt="" coords="328,71,504,112"/>
+<area shape="rect" id="node9" href="$classControladoraApresentacaoReserva.html#af139644440821b77a15e14db6a683033" title=" " alt="" coords="328,201,504,243"/>
+<area shape="rect" id="node4" href="$classControladoraApresentacaoQuarto.html#a729e50b2e21cfb40adaca3bbeee4856c" title="Executa o menu de gerenciamento de quartos." alt="" coords="104,71,280,112"/>
+<area shape="rect" id="node5" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="Funcao principal." alt="" coords="5,111,56,138"/>
+<area shape="rect" id="node7" href="$classControladoraApresentacaoReserva.html#ab1375a741082f239868406d32f08eb04" title="Executa o menu de gerenciamento de reservas." alt="" coords="104,136,280,177"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="IApresentacaoHotel" name="IApresentacaoHotel">
+<area shape="rect" id="node1" title="Interface para apresentacao de gerenciamento de hoteis." alt="" coords="17,5,182,97"/>
+<area shape="rect" id="node2" href="$classControladoraApresentacaoHotel.html" title="Implementa interface de gerenciamento de hoteis." alt="" coords="5,145,193,340"/>
+</map>

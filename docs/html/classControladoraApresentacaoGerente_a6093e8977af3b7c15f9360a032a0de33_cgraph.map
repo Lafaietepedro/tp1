@@ -1,0 +1,19 @@
+<map id="ControladoraApresentacaoGerente::executar" name="ControladoraApresentacaoGerente::executar">
+<area shape="rect" id="node1" title="Executa o menu de gerenciamento de gerentes." alt="" coords="5,555,181,597"/>
+<area shape="rect" id="node2" href="$classControladoraApresentacaoGerente.html#a02083717cf10f66af3ae82749177a4c3" title=" " alt="" coords="229,277,405,318"/>
+<area shape="rect" id="node10" href="$apresentacao_8cpp.html#aa4babdda3b35e146a545f567fcd13fb3" title="Limpa o buffer de entrada." alt="" coords="682,512,773,539"/>
+<area shape="rect" id="node17" href="$apresentacao_8cpp.html#a04033226e000214f034cbc39a89955b5" title="Limpa a tela do console." alt="" coords="277,613,358,640"/>
+<area shape="rect" id="node3" href="$classIServicoGerente.html#a28feaf72aef2be6529878f0ecdec1662" title="Atualiza dados de um gerente." alt="" coords="453,107,627,133"/>
+<area shape="rect" id="node4" href="$classIServicoGerente.html#ac9c3bd4c61a3abd07526825a2c974957" title="Busca um gerente por email." alt="" coords="459,157,621,184"/>
+<area shape="rect" id="node5" href="$classEmail.html#a8fa1da6448b64f4ae89662984b10e6b6" title="Obtem o email." alt="" coords="499,208,581,235"/>
+<area shape="rect" id="node6" href="$classNome.html#ac018899c816fa4f4f5fcf3375132360b" title="Obtem o nome." alt="" coords="499,259,581,285"/>
+<area shape="rect" id="node7" href="$classPessoa.html#a137a2a665a10ffa4880d1f7d726b07c7" title="Obtem o email da pessoa." alt="" coords="477,309,603,336"/>
+<area shape="rect" id="node8" href="$classPessoa.html#ad0c0448768ca2f5b5dfca86f156cdfe9" title="Obtem o nome da pessoa." alt="" coords="477,360,603,387"/>
+<area shape="rect" id="node9" href="$apresentacao_8cpp.html#a01a3f268deb31b1ffe17d947b6b62b71" title="Pausa a execucao ate o usuario pressionar Enter." alt="" coords="509,461,571,488"/>
+<area shape="rect" id="node11" href="$classNome.html#a6b1363639ee0442020d79c86f78e8762" title="Define o nome." alt="" coords="499,411,581,437"/>
+<area shape="rect" id="node13" href="$classSenha.html#a2b735f0b10104bc6ae02e08586633bc1" title="Define a senha." alt="" coords="497,5,583,32"/>
+<area shape="rect" id="node15" href="$classPessoa.html#a07eb389b22a0163d5d61617aa6c3fb64" title="Define o nome da pessoa." alt="" coords="477,512,603,539"/>
+<area shape="rect" id="node16" href="$classGerente.html#a6119cd362a7f0687ed613f77a76e1c7b" title="Define a senha do gerente." alt="" coords="475,56,605,83"/>
+<area shape="rect" id="node12" href="$classNome.html#a0f8a375558a40c9b0a6b1ab44487aa40" title=" " alt="" coords="676,411,779,437"/>
+<area shape="rect" id="node14" href="$classSenha.html#ac44607343a6883a44048471b76d1e3df" title=" " alt="" coords="675,5,780,32"/>
+</map>

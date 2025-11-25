@@ -1,0 +1,8 @@
+<map id="ControladoraServicoQuarto::atualizar" name="ControladoraServicoQuarto::atualizar">
+<area shape="rect" id="node1" title="Atualiza dados de um quarto." alt="" coords="5,74,184,115"/>
+<area shape="rect" id="node2" href="$classContainerQuartos.html#aae3775f701127156d588cd64b70940ad" title="Atualiza um quarto." alt="" coords="232,81,413,108"/>
+<area shape="rect" id="node3" href="$classCodigo.html#ac85ddffb159c47c1f4963d7ac0e3c031" title="Obtem o codigo." alt="" coords="496,5,585,32"/>
+<area shape="rect" id="node4" href="$classNumero.html#a892b8fcee819b7437473a507d6389d94" title="Obtem o numero." alt="" coords="493,56,588,83"/>
+<area shape="rect" id="node5" href="$classQuarto.html#afe56ef7b33c878df6577b021b738dfa3" title="Obtem o codigo do hotel ao qual pertence." alt="" coords="461,107,620,133"/>
+<area shape="rect" id="node6" href="$classQuarto.html#a6880bfb90f67de8ff0ca5a768f544a23" title="Obtem o numero do quarto." alt="" coords="474,157,607,184"/>
+</map>

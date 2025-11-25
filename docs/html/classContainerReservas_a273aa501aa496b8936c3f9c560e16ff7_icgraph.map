@@ -1,0 +1,4 @@
+<map id="ContainerReservas::adicionar" name="ContainerReservas::adicionar">
+<area shape="rect" id="node1" title="Adiciona uma reserva." alt="" coords="243,5,385,47"/>
+<area shape="rect" id="node2" href="$classControladoraServicoReserva.html#a00f6fc8c991239734313c89f941a4131" title="Cria uma nova reserva." alt="" coords="5,5,195,47"/>
+</map>

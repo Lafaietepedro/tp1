@@ -1,0 +1,6 @@
+<map id="ControladoraServicoHotel::criar" name="ControladoraServicoHotel::criar">
+<area shape="rect" id="node1" title="Cria um novo hotel." alt="" coords="5,23,176,65"/>
+<area shape="rect" id="node2" href="$classContainerHoteis.html#a4c168a6e5b31d35767caf3b3de48f7b8" title="Adiciona um hotel." alt="" coords="224,31,400,57"/>
+<area shape="rect" id="node3" href="$classCodigo.html#ac85ddffb159c47c1f4963d7ac0e3c031" title="Obtem o codigo." alt="" coords="463,5,553,32"/>
+<area shape="rect" id="node4" href="$classHotel.html#a076508ceddd66b732d6519e46ce6c22c" title="Obtem o codigo do hotel." alt="" coords="448,56,568,83"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="ControladoraServicoAutenticacao::autenticar" name="ControladoraServicoAutenticacao::autenticar">
+<area shape="rect" id="node1" title="Autentica um gerente." alt="" coords="5,64,221,105"/>
+<area shape="rect" id="node2" href="$classContainerGerentes.html#a462fa97b59f94db9ee8bfc67eba9eb18" title="Busca um gerente por email." alt="" coords="269,5,408,47"/>
+<area shape="rect" id="node4" href="$classSenha.html#a0a35cf290b581657eb53dc76296d9536" title="Obtem a senha." alt="" coords="296,71,381,98"/>
+<area shape="rect" id="node5" href="$classGerente.html#a0beb079518dff07f85924f4ae8517d92" title="Obtem a senha do gerente." alt="" coords="273,122,404,149"/>
+<area shape="rect" id="node3" href="$classEmail.html#a8fa1da6448b64f4ae89662984b10e6b6" title="Obtem o email." alt="" coords="456,13,537,39"/>
+</map>

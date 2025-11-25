@@ -1,0 +1,7 @@
+<map id="Hospede::setEndereco" name="Hospede::setEndereco">
+<area shape="rect" id="node1" title="Define o endereco do hospede." alt="" coords="552,46,707,73"/>
+<area shape="rect" id="node2" href="$classControladoraApresentacaoHospede.html#a38e0c233fdd63458ebbf8ecbc58ffe2d" title=" " alt="" coords="328,5,504,47"/>
+<area shape="rect" id="node5" href="$classControladoraApresentacaoHospede.html#aeedfbbec0d406037b43f274ee9aba05f" title=" " alt="" coords="328,71,504,112"/>
+<area shape="rect" id="node3" href="$classControladoraApresentacaoHospede.html#aa76aed71365bc4d50e691181c096f156" title="Executa o menu de gerenciamento de hospedes." alt="" coords="104,39,280,80"/>
+<area shape="rect" id="node4" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="Funcao principal." alt="" coords="5,46,56,73"/>
+</map>

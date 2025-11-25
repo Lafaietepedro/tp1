@@ -1,0 +1,12 @@
+<map id="include/dominios.h" name="include/dominios.h">
+<area shape="rect" id="node1" title="Declaracao das classes de dominio do sistema de gestao de hoteis." alt="" coords="304,5,435,32"/>
+<area shape="rect" id="node2" href="$entidades_8h.html" title="Declaracao das classes de entidade do sistema de gestao de hoteis." alt="" coords="226,80,361,107"/>
+<area shape="rect" id="node10" href="$dominios_8cpp.html" title="Implementacao das classes de dominio do sistema de gestao de hoteis." alt="" coords="385,80,506,107"/>
+<area shape="rect" id="node3" href="$interfaces_8h.html" title="Declaracao das interfaces entre modulos (classes abstratas)" alt="" coords="149,155,283,181"/>
+<area shape="rect" id="node9" href="$entidades_8cpp.html" title="Implementacao das classes de entidade do sistema de gestao de hoteis." alt="" coords="308,155,433,181"/>
+<area shape="rect" id="node4" href="$apresentacao_8h.html" title="Declaracao das classes da camada de apresentacao." alt="" coords="57,229,213,256"/>
+<area shape="rect" id="node7" href="$servico_8h.html" title="Declaracao das classes da camada de servico (controladoras e containers)" alt="" coords="237,229,357,256"/>
+<area shape="rect" id="node5" href="$apresentacao_8cpp.html" title="Implementacao das classes da camada de apresentacao." alt="" coords="5,304,152,331"/>
+<area shape="rect" id="node6" href="$main_8cpp.html" title="Programa principal do sistema de gestao de hoteis." alt="" coords="177,304,274,331"/>
+<area shape="rect" id="node8" href="$servico_8cpp.html" title="Implementacao das classes da camada de servico." alt="" coords="298,304,409,331"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="ControladoraServicoQuarto::buscar" name="ControladoraServicoQuarto::buscar">
+<area shape="rect" id="node1" title="Busca um quarto por numero e codigo do hotel." alt="" coords="5,23,184,65"/>
+<area shape="rect" id="node2" href="$classContainerQuartos.html#ae06701025e9021b0e761ff3a878572c8" title="Busca um quarto." alt="" coords="232,31,403,57"/>
+<area shape="rect" id="node3" href="$classCodigo.html#ac85ddffb159c47c1f4963d7ac0e3c031" title="Obtem o codigo." alt="" coords="453,5,543,32"/>
+<area shape="rect" id="node4" href="$classNumero.html#a892b8fcee819b7437473a507d6389d94" title="Obtem o numero." alt="" coords="451,56,545,83"/>
+</map>

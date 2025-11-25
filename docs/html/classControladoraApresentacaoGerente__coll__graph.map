@@ -1,0 +1,5 @@
+<map id="ControladoraApresentacaoGerente" name="ControladoraApresentacaoGerente">
+<area shape="rect" id="node1" title="Implementa interface de gerenciamento de gerentes." alt="" coords="95,204,283,369"/>
+<area shape="rect" id="node2" href="$classIApresentacaoGerente.html" title="Interface para apresentacao de gerenciamento de gerentes." alt="" coords="5,27,185,119"/>
+<area shape="rect" id="node3" href="$classIServicoGerente.html" title="Interface para servicos de gerenciamento de gerentes." alt="" coords="210,5,354,141"/>
+</map>

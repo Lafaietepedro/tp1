@@ -1,0 +1,4 @@
+<map id="ContainerGerentes::remover" name="ContainerGerentes::remover">
+<area shape="rect" id="node1" title="Remove um gerente." alt="" coords="240,5,379,47"/>
+<area shape="rect" id="node2" href="$classControladoraServicoGerente.html#a50bf0974e711fdc062f020163847193b" title="Remove um gerente." alt="" coords="5,5,192,47"/>
+</map>

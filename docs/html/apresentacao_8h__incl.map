@@ -1,0 +1,11 @@
+<map id="include/apresentacao.h" name="include/apresentacao.h">
+<area shape="rect" id="node1" title="Declaracao das classes da camada de apresentacao." alt="" coords="149,5,305,32"/>
+<area shape="rect" id="node2" href="$interfaces_8h.html" title="Declaracao das interfaces entre modulos (classes abstratas)" alt="" coords="77,80,167,107"/>
+<area shape="rect" id="node8" title=" " alt="" coords="191,80,263,107"/>
+<area shape="rect" id="node9" title=" " alt="" coords="287,80,341,107"/>
+<area shape="rect" id="node3" href="$entidades_8h.html" title="Declaracao das classes de entidade do sistema de gestao de hoteis." alt="" coords="28,155,117,181"/>
+<area shape="rect" id="node7" title=" " alt="" coords="142,155,201,181"/>
+<area shape="rect" id="node4" href="$dominios_8h.html" title="Declaracao das classes de dominio do sistema de gestao de hoteis." alt="" coords="70,229,155,256"/>
+<area shape="rect" id="node5" title=" " alt="" coords="5,304,60,331"/>
+<area shape="rect" id="node6" title=" " alt="" coords="84,304,163,331"/>
+</map>

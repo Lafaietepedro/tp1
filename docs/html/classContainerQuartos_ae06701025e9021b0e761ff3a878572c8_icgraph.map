@@ -1,0 +1,4 @@
+<map id="ContainerQuartos::buscar" name="ContainerQuartos::buscar">
+<area shape="rect" id="node1" title="Busca um quarto." alt="" coords="232,13,403,39"/>
+<area shape="rect" id="node2" href="$classControladoraServicoQuarto.html#a2c1f16b25e5fc896037ed5ec882dbcb7" title="Busca um quarto por numero e codigo do hotel." alt="" coords="5,5,184,47"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="ControladoraApresentacaoAutenticacao::executar" name="ControladoraApresentacaoAutenticacao::executar">
+<area shape="rect" id="node1" title="Executa o fluxo de autenticacao." alt="" coords="5,281,181,323"/>
+<area shape="rect" id="node2" href="$classIServicoAutenticacao.html#ac007741c28fc14ade021fa5c06a5ec5f" title="Autentica um gerente." alt="" coords="229,5,376,47"/>
+<area shape="rect" id="node3" href="$classIServicoAutenticacao.html#a1400d64eaffb72e53c0f8539a4654980" title="Cria uma nova conta de gerente." alt="" coords="229,71,376,112"/>
+<area shape="rect" id="node4" href="$apresentacao_8cpp.html#aa4babdda3b35e146a545f567fcd13fb3" title="Limpa o buffer de entrada." alt="" coords="431,187,522,214"/>
+<area shape="rect" id="node5" href="$apresentacao_8cpp.html#a04033226e000214f034cbc39a89955b5" title="Limpa a tela do console." alt="" coords="262,187,343,214"/>
+<area shape="rect" id="node6" href="$apresentacao_8cpp.html#a01a3f268deb31b1ffe17d947b6b62b71" title="Pausa a execucao ate o usuario pressionar Enter." alt="" coords="272,238,333,265"/>
+<area shape="rect" id="node7" href="$classEmail.html#a2fa13794c8a264fac6185f5e224b37b0" title="Define o email." alt="" coords="262,289,343,315"/>
+<area shape="rect" id="node9" href="$classNome.html#a6b1363639ee0442020d79c86f78e8762" title="Define o nome." alt="" coords="261,339,344,366"/>
+<area shape="rect" id="node11" href="$classSenha.html#a2b735f0b10104bc6ae02e08586633bc1" title="Define a senha." alt="" coords="260,390,345,417"/>
+<area shape="rect" id="node13" href="$classPessoa.html#aaa2c0e6dddfbf2e1a3c6218706ecb325" title="Define o email da pessoa." alt="" coords="240,441,365,467"/>
+<area shape="rect" id="node14" href="$classPessoa.html#a07eb389b22a0163d5d61617aa6c3fb64" title="Define o nome da pessoa." alt="" coords="239,491,366,518"/>
+<area shape="rect" id="node15" href="$classGerente.html#a6119cd362a7f0687ed613f77a76e1c7b" title="Define a senha do gerente." alt="" coords="237,542,368,569"/>
+<area shape="rect" id="node8" href="$classEmail.html#abdffea0a54b10fbaf3b9e3d2c9d6abbb" title=" " alt="" coords="426,289,527,315"/>
+<area shape="rect" id="node10" href="$classNome.html#a0f8a375558a40c9b0a6b1ab44487aa40" title=" " alt="" coords="425,339,528,366"/>
+<area shape="rect" id="node12" href="$classSenha.html#ac44607343a6883a44048471b76d1e3df" title=" " alt="" coords="424,390,529,417"/>
+</map>

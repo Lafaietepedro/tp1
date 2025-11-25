@@ -1,0 +1,466 @@
+================================================================================
+SMOKE TEST - SISTEMA DE GESTAO DE HOTEIS
+================================================================================
+
+Este script descreve os casos de teste para o smoke test do sistema.
+Cada caso de teste contempla um cenario de sucesso para cada funcionalidade.
+
+IMPORTANTE: Execute os testes na ordem apresentada, pois alguns dependem de dados
+criados em testes anteriores.
+
+================================================================================
+PREPARACAO
+================================================================================
+
+1. Compilar o projeto:
+   - Via Code::Blocks: Abrir TP1.cbp e compilar (F9)
+   - Via Makefile: Executar "make" no diretorio raiz
+   - Via linha de comando: g++ -std=c++11 -Wall -Iinclude -c src/*.cpp -o bin/sistema_hoteis.exe
+
+2. Executar o sistema: bin/sistema_hoteis.exe
+
+================================================================================
+CASOS DE TESTE
+================================================================================
+
+================================================================================
+TESTE 1: CRIAR CONTA DE GERENTE (Cenário de Sucesso)
+================================================================================
+
+Objetivo: Verificar criação de conta de gerente com dados válidos
+
+Passos:
+1. Na tela inicial, selecionar opção "2. Criar Conta"
+2. Informar os seguintes dados:
+   - Nome: "Joao Silva"
+   - Email: "joao@email.com"
+   - Senha: "A1b@c"
+3. Verificar mensagem de sucesso
+4. O sistema deve retornar à tela inicial
+
+Resultado Esperado: Conta criada com sucesso
+
+================================================================================
+TESTE 2: LOGIN (Cenário de Sucesso)
+================================================================================
+
+Objetivo: Verificar autenticação com credenciais válidas
+
+Passos:
+1. Na tela inicial, selecionar opção "1. Login"
+2. Informar:
+   - Email: "joao@email.com"
+   - Senha: "A1b@c"
+3. Verificar mensagem "Login realizado com sucesso!"
+4. O sistema deve exibir o Menu Principal
+
+Resultado Esperado: Login realizado com sucesso
+
+================================================================================
+TESTE 3: CRIAR HOTEL (Cenário de Sucesso)
+================================================================================
+
+Objetivo: Verificar criação de hotel com dados válidos
+
+Passos:
+1. No Menu Principal, selecionar opção "2. Gerenciar Hoteis"
+2. Selecionar opção "1. Criar Hotel"
+3. Informar os seguintes dados:
+   - Nome: "Hotel Exemplo"
+   - Endereco: "Rua das Flores, 123"
+   - Telefone: "+5511999999999"
+   - Codigo: "HOTEL00101"
+4. Verificar mensagem de sucesso
+5. Retornar ao menu de hotéis
+
+Resultado Esperado: Hotel criado com sucesso
+
+================================================================================
+TESTE 4: LISTAR HOTEIS (Cenário de Sucesso)
+================================================================================
+
+Objetivo: Verificar listagem de hotéis do gerente
+
+Passos:
+1. No menu de hotéis, selecionar opção "2. Listar Hoteis"
+2. Verificar que o hotel criado no Teste 3 é exibido
+3. Verificar que os dados estão corretos (nome, endereço, telefone, código)
+4. Pressionar ENTER para continuar
+
+Resultado Esperado: Lista de hotéis exibida corretamente
+
+================================================================================
+TESTE 5: ATUALIZAR HOTEL (Cenário de Sucesso)
+================================================================================
+
+Objetivo: Verificar atualização de dados do hotel
+
+Passos:
+1. No menu de hotéis, selecionar opção "3. Editar Hotel"
+2. Informar o código do hotel: "HOTEL00101"
+3. Selecionar o campo a editar (ex: "1. Nome")
+4. Informar novo nome: "Hotel Exemplo Atualizado"
+5. Verificar mensagem de sucesso
+6. Listar hotéis novamente para confirmar a alteração
+
+Resultado Esperado: Hotel atualizado com sucesso
+
+================================================================================
+TESTE 6: CRIAR QUARTO (Cenário de Sucesso)
+================================================================================
+
+Objetivo: Verificar criação de quarto com dados válidos
+
+Passos:
+1. No Menu Principal, selecionar opção "3. Gerenciar Quartos"
+2. Selecionar opção "1. Criar Quarto"
+3. Informar o código do hotel: "HOTEL00101"
+4. Informar os seguintes dados do quarto:
+   - Numero: "101"
+   - Capacidade: "2"
+   - Diaria: "150.00"
+   - Ramal: "101"
+5. Verificar mensagem de sucesso
+6. Retornar ao menu de quartos
+
+Resultado Esperado: Quarto criado com sucesso
+
+================================================================================
+TESTE 7: LISTAR QUARTOS (Cenário de Sucesso)
+================================================================================
+
+Objetivo: Verificar listagem de quartos de um hotel
+
+Passos:
+1. No menu de quartos, selecionar opção "2. Listar Quartos"
+2. Informar o código do hotel: "HOTEL00101"
+3. Verificar que o quarto criado no Teste 6 é exibido
+4. Verificar que os dados estão corretos (número, capacidade, diária, ramal)
+5. Pressionar ENTER para continuar
+
+Resultado Esperado: Lista de quartos exibida corretamente
+
+================================================================================
+TESTE 8: ATUALIZAR QUARTO (Cenário de Sucesso)
+================================================================================
+
+Objetivo: Verificar atualização de dados do quarto
+
+Passos:
+1. No menu de quartos, selecionar opção "3. Editar Quarto"
+2. Informar o código do hotel: "HOTEL00101"
+3. Informar o número do quarto: "101"
+4. Selecionar o campo a editar (ex: "2. Capacidade")
+5. Informar nova capacidade: "3"
+6. Verificar mensagem de sucesso
+7. Listar quartos novamente para confirmar a alteração
+
+Resultado Esperado: Quarto atualizado com sucesso
+
+================================================================================
+TESTE 9: CRIAR RESERVA (Cenário de Sucesso)
+================================================================================
+
+Objetivo: Verificar criação de reserva com dados válidos
+
+Passos:
+1. No Menu Principal, selecionar opção "4. Gerenciar Reservas"
+2. Selecionar opção "1. Criar Reserva"
+3. Informar o código do hotel: "HOTEL00101"
+4. Informar o número do quarto: "101"
+5. Informar os seguintes dados:
+   - Data de Chegada: "15-JAN-2024"
+   - Data de Partida: "20-JAN-2024"
+   - Valor: "750.00"
+   - Codigo: "RESERVA001"
+6. Verificar mensagem de sucesso
+7. Retornar ao menu de reservas
+
+Resultado Esperado: Reserva criada com sucesso
+
+================================================================================
+TESTE 10: LISTAR RESERVAS (Cenário de Sucesso)
+================================================================================
+
+Objetivo: Verificar listagem de todas as reservas
+
+Passos:
+1. No menu de reservas, selecionar opção "2. Listar Reservas"
+2. Verificar que a reserva criada no Teste 9 é exibida
+3. Verificar que os dados estão corretos (datas, valor, código, quarto, hotel)
+4. Pressionar ENTER para continuar
+
+Resultado Esperado: Lista de reservas exibida corretamente
+
+================================================================================
+TESTE 11: ATUALIZAR RESERVA (Cenário de Sucesso)
+================================================================================
+
+Objetivo: Verificar atualização de dados da reserva
+
+Passos:
+1. No menu de reservas, selecionar opção "3. Editar Reserva"
+2. Informar o código da reserva: "RESERVA001"
+3. Selecionar o campo a editar (ex: "3. Valor")
+4. Informar novo valor: "800.00"
+5. Verificar mensagem de sucesso
+6. Listar reservas novamente para confirmar a alteração
+
+Resultado Esperado: Reserva atualizada com sucesso
+
+================================================================================
+TESTE 12: CRIAR HOSPEDE (Cenário de Sucesso)
+================================================================================
+
+Objetivo: Verificar criação de hóspede com dados válidos
+
+Passos:
+1. No Menu Principal, selecionar opção "5. Gerenciar Hospedes"
+2. Selecionar opção "1. Criar Hospede"
+3. Informar o código da reserva: "RESERVA001"
+4. Informar os seguintes dados:
+   - Endereco: "Av. Principal, 456"
+   - Cartao: "4532015112830366"
+5. Verificar mensagem de sucesso
+6. Retornar ao menu de hóspedes
+
+Resultado Esperado: Hóspede criado com sucesso
+
+================================================================================
+TESTE 13: LISTAR HOSPEDES (Cenário de Sucesso)
+================================================================================
+
+Objetivo: Verificar listagem de todos os hóspedes
+
+Passos:
+1. No menu de hóspedes, selecionar opção "2. Listar Hospedes"
+2. Verificar que o hóspede criado no Teste 12 é exibido
+3. Verificar que os dados estão corretos (endereço, cartão, código da reserva)
+4. Pressionar ENTER para continuar
+
+Resultado Esperado: Lista de hóspedes exibida corretamente
+
+================================================================================
+TESTE 14: ATUALIZAR HOSPEDE (Cenário de Sucesso)
+================================================================================
+
+Objetivo: Verificar atualização de dados do hóspede
+
+Passos:
+1. No menu de hóspedes, selecionar opção "3. Editar Hospede"
+2. Informar o número do cartão: "4532015112830366"
+3. Selecionar o campo a editar (ex: "1. Endereco")
+4. Informar novo endereço: "Rua Nova, 789"
+5. Verificar mensagem de sucesso
+6. Listar hóspedes novamente para confirmar a alteração
+
+Resultado Esperado: Hóspede atualizado com sucesso
+
+================================================================================
+TESTE 15: ATUALIZAR PERFIL DO GERENTE (Cenário de Sucesso)
+================================================================================
+
+Objetivo: Verificar atualização dos dados do gerente logado
+
+Passos:
+1. No Menu Principal, selecionar opção "1. Gerenciar Perfil"
+2. Selecionar opção "1. Editar Nome"
+3. Informar novo nome: "Joao Silva Atualizado"
+4. Verificar mensagem de sucesso
+5. Selecionar opção "2. Editar Email"
+6. Informar novo email: "joao.novo@email.com"
+7. Verificar mensagem de sucesso
+8. Sair do menu de perfil
+
+Resultado Esperado: Perfil atualizado com sucesso
+
+================================================================================
+TESTE 16: BUSCAR HOTEL (Cenário de Sucesso)
+================================================================================
+
+Objetivo: Verificar busca de hotel por código
+
+Passos:
+1. No menu de hotéis, selecionar opção "4. Buscar Hotel"
+2. Informar o código: "HOTEL00101"
+3. Verificar que os dados do hotel são exibidos corretamente
+4. Pressionar ENTER para continuar
+
+Resultado Esperado: Hotel encontrado e exibido corretamente
+
+================================================================================
+TESTE 17: BUSCAR QUARTO (Cenário de Sucesso)
+================================================================================
+
+Objetivo: Verificar busca de quarto por número e código do hotel
+
+Passos:
+1. No menu de quartos, selecionar opção "4. Buscar Quarto"
+2. Informar o código do hotel: "HOTEL00101"
+3. Informar o número do quarto: "101"
+4. Verificar que os dados do quarto são exibidos corretamente
+5. Pressionar ENTER para continuar
+
+Resultado Esperado: Quarto encontrado e exibido corretamente
+
+================================================================================
+TESTE 18: BUSCAR RESERVA (Cenário de Sucesso)
+================================================================================
+
+Objetivo: Verificar busca de reserva por código
+
+Passos:
+1. No menu de reservas, selecionar opção "4. Buscar Reserva"
+2. Informar o código: "RESERVA001"
+3. Verificar que os dados da reserva são exibidos corretamente
+4. Pressionar ENTER para continuar
+
+Resultado Esperado: Reserva encontrada e exibida corretamente
+
+================================================================================
+TESTE 19: BUSCAR HOSPEDE (Cenário de Sucesso)
+================================================================================
+
+Objetivo: Verificar busca de hóspede por cartão
+
+Passos:
+1. No menu de hóspedes, selecionar opção "4. Buscar Hospede"
+2. Informar o número do cartão: "4532015112830366"
+3. Verificar que os dados do hóspede são exibidos corretamente
+4. Pressionar ENTER para continuar
+
+Resultado Esperado: Hóspede encontrado e exibido corretamente
+
+================================================================================
+TESTE 20: VALIDACAO DE INTEGRIDADE - EXCLUIR HOSPEDE (Cenário de Sucesso)
+================================================================================
+
+Objetivo: Verificar exclusão de hóspede
+
+Passos:
+1. No menu de hóspedes, selecionar opção "5. Excluir Hospede"
+2. Informar o número do cartão: "4532015112830366"
+3. Confirmar a exclusão
+4. Verificar mensagem de sucesso
+5. Listar hóspedes para confirmar que não existe mais
+
+Resultado Esperado: Hóspede excluído com sucesso
+
+================================================================================
+TESTE 21: VALIDACAO DE INTEGRIDADE - EXCLUIR RESERVA (Cenário de Sucesso)
+================================================================================
+
+Objetivo: Verificar exclusão de reserva (após excluir hóspede)
+
+Passos:
+1. No menu de reservas, selecionar opção "5. Excluir Reserva"
+2. Informar o código: "RESERVA001"
+3. Confirmar a exclusão
+4. Verificar mensagem de sucesso
+5. Listar reservas para confirmar que não existe mais
+
+Resultado Esperado: Reserva excluída com sucesso
+
+================================================================================
+TESTE 22: VALIDACAO DE INTEGRIDADE - EXCLUIR QUARTO (Cenário de Sucesso)
+================================================================================
+
+Objetivo: Verificar exclusão de quarto (após excluir reservas)
+
+Passos:
+1. No menu de quartos, selecionar opção "5. Excluir Quarto"
+2. Informar o código do hotel: "HOTEL00101"
+3. Informar o número do quarto: "101"
+4. Confirmar a exclusão
+5. Verificar mensagem de sucesso
+6. Listar quartos para confirmar que não existe mais
+
+Resultado Esperado: Quarto excluído com sucesso
+
+================================================================================
+TESTE 23: VALIDACAO DE INTEGRIDADE - EXCLUIR HOTEL (Cenário de Sucesso)
+================================================================================
+
+Objetivo: Verificar exclusão de hotel (após excluir quartos)
+
+Passos:
+1. No menu de hotéis, selecionar opção "5. Excluir Hotel"
+2. Informar o código: "HOTEL00101"
+3. Confirmar a exclusão
+4. Verificar mensagem de sucesso
+5. Listar hotéis para confirmar que não existe mais
+
+Resultado Esperado: Hotel excluído com sucesso
+
+================================================================================
+TESTE 24: PERSISTENCIA DE DADOS (Cenário de Sucesso)
+================================================================================
+
+Objetivo: Verificar que os dados são persistidos entre execuções
+
+Passos:
+1. Criar uma nova conta de gerente (se necessário)
+2. Criar um hotel
+3. Criar um quarto
+4. Criar uma reserva
+5. Criar um hóspede
+6. Sair do sistema (opção 0 no Menu Principal)
+7. Executar o sistema novamente
+8. Fazer login com a conta criada
+9. Verificar que o hotel, quarto, reserva e hóspede ainda existem
+10. Listar cada um para confirmar
+
+Resultado Esperado: Dados persistidos corretamente entre execuções
+
+================================================================================
+TESTE 25: VALIDACAO DE CONFLITO DE RESERVAS (Cenário de Sucesso)
+================================================================================
+
+Objetivo: Verificar que o sistema detecta conflitos de datas em reservas
+
+Passos:
+1. Criar um hotel e um quarto (se necessário)
+2. Criar uma reserva para o quarto:
+   - Data Chegada: "01-FEB-2024"
+   - Data Partida: "05-FEB-2024"
+3. Tentar criar outra reserva para o mesmo quarto com datas conflitantes:
+   - Data Chegada: "03-FEB-2024"
+   - Data Partida: "07-FEB-2024"
+4. Verificar que o sistema impede a criação (mensagem de erro)
+5. Criar uma reserva sem conflito:
+   - Data Chegada: "10-FEB-2024"
+   - Data Partida: "15-FEB-2024"
+6. Verificar que esta reserva é criada com sucesso
+
+Resultado Esperado: Sistema detecta e impede conflitos de datas corretamente
+
+================================================================================
+RESUMO DOS CASOS DE TESTE
+================================================================================
+
+Total de casos de teste: 25
+
+Funcionalidades testadas:
+- Autenticação: Criar conta, Login
+- Gerente: Atualizar perfil
+- Hotéis: Criar, Listar, Atualizar, Buscar, Excluir
+- Quartos: Criar, Listar, Atualizar, Buscar, Excluir
+- Reservas: Criar, Listar, Atualizar, Buscar, Excluir, Validação de conflitos
+- Hóspedes: Criar, Listar, Atualizar, Buscar, Excluir
+- Persistência: Verificação de dados entre execuções
+- Integridade: Validação de exclusões em cascata
+
+Todos os casos de teste contemplam cenários de sucesso.
+
+================================================================================
+OBSERVAÇÕES
+================================================================================
+
+- Execute os testes na ordem apresentada
+- Alguns testes dependem de dados criados em testes anteriores
+- Os dados de exemplo podem ser alterados, mas devem seguir os formatos válidos
+- Para o teste de persistência, certifique-se de que o diretório "data/" existe
+- O sistema deve compilar sem erros antes de executar os testes
+
+================================================================================
+

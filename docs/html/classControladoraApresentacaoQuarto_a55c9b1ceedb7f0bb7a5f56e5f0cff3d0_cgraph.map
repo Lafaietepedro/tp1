@@ -1,0 +1,10 @@
+<map id="ControladoraApresentacaoQuarto::excluirQuarto" name="ControladoraApresentacaoQuarto::excluirQuarto">
+<area shape="rect" id="node1" title=" " alt="" coords="5,75,181,116"/>
+<area shape="rect" id="node2" href="$apresentacao_8cpp.html#aa4babdda3b35e146a545f567fcd13fb3" title="Limpa o buffer de entrada." alt="" coords="453,6,544,33"/>
+<area shape="rect" id="node3" href="$apresentacao_8cpp.html#a01a3f268deb31b1ffe17d947b6b62b71" title="Pausa a execucao ate o usuario pressionar Enter." alt="" coords="281,31,342,58"/>
+<area shape="rect" id="node4" href="$classIServicoQuarto.html#a11407ddb7f1e84edf4331f0ff336821e" title="Remove um quarto." alt="" coords="229,82,393,109"/>
+<area shape="rect" id="node5" href="$classNumero.html#a5c990173a4057f6268add8b71a61c378" title="Define o numero." alt="" coords="264,133,359,159"/>
+<area shape="rect" id="node7" href="$classCodigo.html#a72b57b491a9fd290afbb9afbde059e86" title="Define o codigo." alt="" coords="267,183,356,210"/>
+<area shape="rect" id="node6" href="$classNumero.html#aa653cf470c7b9ac498f7888d66bf7f63" title=" " alt="" coords="441,133,556,159"/>
+<area shape="rect" id="node8" href="$classCodigo.html#aedbb492294eec94107db134e04f53e2f" title=" " alt="" coords="444,183,553,210"/>
+</map>

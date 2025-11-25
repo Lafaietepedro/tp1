@@ -1,0 +1,102 @@
+IDENTIFICACAO DOS MEMBROS DA EQUIPE E ARTEFATOS
+
+================================================================================
+MEMBROS DA EQUIPE
+================================================================================
+
+Trabalho realizado individualmente.
+
+Membro 1:
+- Nome: Lafaiete Pedro Silva de Almeida
+- Matricula: 190128631
+
+================================================================================
+ARTEFATOS CONSTRUIDOS
+================================================================================
+
+Todos os artefatos foram construidos por: Lafaiete Pedro Silva de Almeida (190128631)
+
+================================================================================
+1. CODIGO FONTE
+================================================================================
+
+Módulo de Domínios:
+- include/dominios.h - Declaração das 12 classes de domínio
+- src/dominios.cpp - Implementação das validações dos domínios
+
+Módulo de Entidades:
+- include/entidades.h - Declaração das 6 classes de entidade
+- src/entidades.cpp - Implementação das entidades
+
+Módulo de Interfaces:
+- include/interfaces.h - Declaração das interfaces abstratas (IServico* e IApresentacao*)
+
+Módulo de Serviço:
+- include/servico.h - Declaração dos contêineres e controladoras de serviço
+- src/servico.cpp - Implementação da lógica de negócio e persistência
+
+Módulo de Apresentação:
+- include/apresentacao.h - Declaração das controladoras de apresentação
+- src/apresentacao.cpp - Implementação da interface com usuário
+
+Programa Principal:
+- src/main.cpp - Ponto de entrada do sistema
+
+================================================================================
+2. TESTES
+================================================================================
+
+- tests/test_dominios.cpp - Testes unitários para classes de domínio
+
+================================================================================
+3. DOCUMENTAÇÃO
+================================================================================
+
+Modelo de Arquitetura:
+- docs/arquitetura.md - Descrição textual da arquitetura
+- docs/arquitetura.pdf - Modelo de arquitetura em PDF
+- docs/arquitetura.puml - Código fonte do diagrama UML
+- docs/arquitetura_uml.png - Diagrama UML da arquitetura
+
+Documentação Doxygen:
+- docs/Doxyfile - Configuração do Doxygen
+- docs/html/ - Páginas HTML geradas pelo Doxygen (1446 arquivos)
+
+Documentação do Projeto:
+- README.md - Documentação geral do projeto
+
+================================================================================
+4. ARQUIVOS DE PROJETO E BUILD
+================================================================================
+
+- TP1.cbp - Projeto Code::Blocks
+- TP1.depend - Dependências do projeto Code::Blocks
+- TP1.layout - Layout do projeto Code::Blocks
+- Makefile - Script de build para compilação via make
+
+================================================================================
+5. EXECUTÁVEIS
+================================================================================
+
+- bin/sistema_hoteis.exe - Executável compilado do sistema
+- bin/Debug/sistema_hoteis.exe - Executável de debug
+
+================================================================================
+6. ARQUIVOS DE DADOS
+================================================================================
+
+- data/gerentes.txt - Persistência de dados de gerentes
+- data/hoteis.txt - Persistência de dados de hotéis (criado em runtime)
+- data/quartos.txt - Persistência de dados de quartos (criado em runtime)
+- data/reservas.txt - Persistência de dados de reservas (criado em runtime)
+- data/hospedes.txt - Persistência de dados de hóspedes (criado em runtime)
+
+================================================================================
+OBSERVAÇÕES
+================================================================================
+
+- Todos os artefatos foram desenvolvidos individualmente
+- O sistema foi implementado seguindo a arquitetura em camadas especificada
+- A documentação foi gerada usando Doxygen
+- O projeto é compatível com Code::Blocks e pode ser compilado via Makefile
+- O sistema utiliza persistência em arquivos de texto para armazenamento de dados

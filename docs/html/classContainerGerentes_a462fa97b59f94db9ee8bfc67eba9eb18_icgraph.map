@@ -1,0 +1,5 @@
+<map id="ContainerGerentes::buscar" name="ContainerGerentes::buscar">
+<area shape="rect" id="node1" title="Busca um gerente por email." alt="" coords="269,39,408,80"/>
+<area shape="rect" id="node2" href="$classControladoraServicoAutenticacao.html#a909591c901d1f7fde17db6bcdffcb3d7" title="Autentica um gerente." alt="" coords="5,5,221,47"/>
+<area shape="rect" id="node3" href="$classControladoraServicoGerente.html#a907db1d93f348e24a19d712080ed5686" title="Busca um gerente por email." alt="" coords="20,71,207,112"/>
+</map>

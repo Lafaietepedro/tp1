@@ -1,0 +1,4 @@
+<map id="ContainerHoteis::atualizar" name="ContainerHoteis::atualizar">
+<area shape="rect" id="node1" title="Atualiza um hotel." alt="" coords="224,13,397,39"/>
+<area shape="rect" id="node2" href="$classControladoraServicoHotel.html#abe4f70dabbbcef9cb0a25f3f358b2bfe" title="Atualiza dados de um hotel." alt="" coords="5,5,176,47"/>
+</map>

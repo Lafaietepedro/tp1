@@ -1,0 +1,4 @@
+<map id="ContainerQuartos::contarPorHotel" name="ContainerQuartos::contarPorHotel">
+<area shape="rect" id="node1" title="Conta quartos de um hotel." alt="" coords="224,5,392,47"/>
+<area shape="rect" id="node2" href="$classControladoraServicoHotel.html#acc94af8bb1d7e6ad42bb74c90cb619c0" title="Remove um hotel." alt="" coords="5,5,176,47"/>
+</map>

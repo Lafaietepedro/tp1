@@ -1,0 +1,4 @@
+<map id="Gerente" name="Gerente">
+<area shape="rect" id="node1" title="Representa um gerente de hotel (herda de Pessoa)" alt="" coords="5,189,103,281"/>
+<area shape="rect" id="node2" href="$classPessoa.html" title="Classe base que representa uma pessoa com nome e email." alt="" coords="7,5,101,141"/>
+</map>

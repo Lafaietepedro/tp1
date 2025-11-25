@@ -1,0 +1,34 @@
+<map id="ControladoraApresentacaoHotel::executar" name="ControladoraApresentacaoHotel::executar">
+<area shape="rect" id="node1" title="Executa o menu de gerenciamento de hoteis." alt="" coords="5,311,181,352"/>
+<area shape="rect" id="node2" href="$classControladoraApresentacaoHotel.html#ad69e89b4c91c7de2cd58e548621ead4d" title=" " alt="" coords="229,343,405,384"/>
+<area shape="rect" id="node5" href="$apresentacao_8cpp.html#aa4babdda3b35e146a545f567fcd13fb3" title="Limpa o buffer de entrada." alt="" coords="676,63,767,90"/>
+<area shape="rect" id="node19" href="$classControladoraApresentacaoHotel.html#aac9956c65c1b925f439aa20de6cd62d5" title=" " alt="" coords="229,647,405,688"/>
+<area shape="rect" id="node28" href="$classControladoraApresentacaoHotel.html#a2b660a8b07a57d2fdd20984c78c38cdb" title=" " alt="" coords="229,241,405,283"/>
+<area shape="rect" id="node30" href="$apresentacao_8cpp.html#a04033226e000214f034cbc39a89955b5" title="Limpa a tela do console." alt="" coords="277,409,358,435"/>
+<area shape="rect" id="node31" href="$classControladoraApresentacaoHotel.html#aaaef59fe3fac020ff7a5ea93940655e1" title=" " alt="" coords="229,140,405,181"/>
+<area shape="rect" id="node3" href="$classIServicoHotel.html#a8a92cb077eb9f9fe8b82a3b36b176457" title="Cria um novo hotel." alt="" coords="465,249,600,275"/>
+<area shape="rect" id="node4" href="$apresentacao_8cpp.html#a01a3f268deb31b1ffe17d947b6b62b71" title="Pausa a execucao ate o usuario pressionar Enter." alt="" coords="502,147,563,174"/>
+<area shape="rect" id="node6" href="$classCodigo.html#a72b57b491a9fd290afbb9afbde059e86" title="Define o codigo." alt="" coords="488,299,577,326"/>
+<area shape="rect" id="node8" href="$classEndereco.html#a575be1188d2276c71cdcc635d51eaa2f" title="Define o endereco." alt="" coords="481,502,584,529"/>
+<area shape="rect" id="node10" href="$classNome.html#a6b1363639ee0442020d79c86f78e8762" title="Define o nome." alt="" coords="491,401,574,427"/>
+<area shape="rect" id="node12" href="$classTelefone.html#a442b96c2e31c556a0722e9a8212c6629" title="Define o telefone." alt="" coords="484,451,581,478"/>
+<area shape="rect" id="node14" href="$classHotel.html#a7223505d8a806cf8bd0d410c0893f35d" title="Define o codigo do hotel." alt="" coords="473,350,593,377"/>
+<area shape="rect" id="node15" href="$classHotel.html#aac1c59829f2afe5b94f1fba6a31ce09d" title="Define o email do gerente responsavel." alt="" coords="453,198,612,225"/>
+<area shape="rect" id="node16" href="$classHotel.html#a74d41a3fbd3555a1f3eaa4fa8b59658a" title="Define o endereco do hotel." alt="" coords="465,654,600,681"/>
+<area shape="rect" id="node17" href="$classHotel.html#a8d4ff101baca000ba2e9d99065fa21f1" title="Define o nome do hotel." alt="" coords="475,553,590,579"/>
+<area shape="rect" id="node18" href="$classHotel.html#a89944bd7ff3d687986ca10829ea24987" title="Define o telefone do hotel." alt="" coords="469,603,597,630"/>
+<area shape="rect" id="node7" href="$classCodigo.html#aedbb492294eec94107db134e04f53e2f" title=" " alt="" coords="667,299,776,326"/>
+<area shape="rect" id="node9" href="$classEndereco.html#ac309da5a7ede9e7b8d8fd4e4247c2f5f" title=" " alt="" coords="660,502,783,529"/>
+<area shape="rect" id="node11" href="$classNome.html#a0f8a375558a40c9b0a6b1ab44487aa40" title=" " alt="" coords="670,401,773,427"/>
+<area shape="rect" id="node13" href="$classTelefone.html#ab596c40107f54d5351c93fcc7975bf84" title=" " alt="" coords="663,451,780,478"/>
+<area shape="rect" id="node20" href="$classIServicoHotel.html#a918d5ffcdc7d54e003f58813f957f8e8" title="Atualiza dados de um hotel." alt="" coords="453,806,612,833"/>
+<area shape="rect" id="node21" href="$classIServicoHotel.html#a3b341094e2d5ecf57e248fd62aece60d" title="Busca um hotel por codigo." alt="" coords="459,857,607,883"/>
+<area shape="rect" id="node22" href="$classEndereco.html#a560f410825eafe71b5fc4746d0143c2b" title="Obtem o endereco." alt="" coords="481,907,584,934"/>
+<area shape="rect" id="node23" href="$classNome.html#ac018899c816fa4f4f5fcf3375132360b" title="Obtem o nome." alt="" coords="491,958,574,985"/>
+<area shape="rect" id="node24" href="$classTelefone.html#adf75af258717d446f5534b407dd6caa6" title="Obtem o telefone." alt="" coords="484,1009,581,1035"/>
+<area shape="rect" id="node25" href="$classHotel.html#a09c6c2d88c68d7c006e32a21396d5df4" title="Obtem o endereco do hotel." alt="" coords="465,1059,600,1086"/>
+<area shape="rect" id="node26" href="$classHotel.html#ad7eb16a9ab0d22a5fb911495a41f385a" title="Obtem o nome do hotel." alt="" coords="475,705,590,731"/>
+<area shape="rect" id="node27" href="$classHotel.html#aaf1d3bfef2f6aa48be7e5d2541bc5e76" title="Obtem o telefone do hotel." alt="" coords="469,755,597,782"/>
+<area shape="rect" id="node29" href="$classIServicoHotel.html#a7a92c44a2ef55086739762937cf3d29d" title="Remove um hotel." alt="" coords="455,97,611,123"/>
+<area shape="rect" id="node32" href="$classIServicoHotel.html#a1fd539ecd693d47a012a3f7b46dac8bf" title="Lista hoteis de um gerente." alt="" coords="454,31,611,72"/>
+</map>

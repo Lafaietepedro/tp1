@@ -1,0 +1,8 @@
+<map id="include/interfaces.h" name="include/interfaces.h">
+<area shape="rect" id="node1" title="Declaracao das interfaces entre modulos (classes abstratas)" alt="" coords="55,5,189,32"/>
+<area shape="rect" id="node2" href="$entidades_8h.html" title="Declaracao das classes de entidade do sistema de gestao de hoteis." alt="" coords="28,80,117,107"/>
+<area shape="rect" id="node6" title=" " alt="" coords="142,80,201,107"/>
+<area shape="rect" id="node3" href="$dominios_8h.html" title="Declaracao das classes de dominio do sistema de gestao de hoteis." alt="" coords="70,155,155,181"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,229,60,256"/>
+<area shape="rect" id="node5" title=" " alt="" coords="84,229,163,256"/>
+</map>

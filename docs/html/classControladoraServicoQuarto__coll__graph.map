@@ -1,0 +1,18 @@
+<map id="ControladoraServicoQuarto" name="ControladoraServicoQuarto">
+<area shape="rect" id="node1" title="Implementa servicos de gerenciamento de quartos." alt="" coords="257,1169,455,1335"/>
+<area shape="rect" id="node2" href="$classIServicoQuarto.html" title="Interface para servicos de gerenciamento de quartos." alt="" coords="130,941,267,1107"/>
+<area shape="rect" id="node3" href="$classContainerQuartos.html" title="Container para armazenamento de quartos em memoria." alt="" coords="291,941,421,1107"/>
+<area shape="rect" id="node4" title=" " alt="" coords="271,801,417,879"/>
+<area shape="rect" id="node5" href="$classQuarto.html" title="Representa um quarto de hotel." alt="" coords="241,515,373,724"/>
+<area shape="rect" id="node6" href="$classRamal.html" title="Representa um ramal telefonico de 00 a 50." alt="" coords="5,294,128,415"/>
+<area shape="rect" id="node7" href="$classCodigo.html" title="Representa um codigo alfanumerico de 10 caracteres (a&#45;z, 0&#45;9)" alt="" coords="511,301,587,408"/>
+<area shape="rect" id="node15" href="$classReserva.html" title="Representa uma reserva de quarto." alt="" coords="477,500,622,739"/>
+<area shape="rect" id="node8" title=" " alt="" coords="656,147,736,224"/>
+<area shape="rect" id="node16" href="$classData.html" title="Representa uma data no formato dia&#45;mes&#45;ano com validacao de anos bissextos." alt="" coords="793,287,897,423"/>
+<area shape="rect" id="node9" title=" " alt="" coords="633,5,759,97"/>
+<area shape="rect" id="node10" href="$classNumero.html" title="Representa um numero de quarto de 001 a 999." alt="" coords="635,294,757,415"/>
+<area shape="rect" id="node11" href="$classDinheiro.html" title="Representa um valor monetario de 0,01 a 1.000.000,00 (armazenado em centavos)" alt="" coords="289,294,412,415"/>
+<area shape="rect" id="node12" href="$classCapacidade.html" title="Representa a capacidade de um quarto (1, 2, 3 ou 4 pessoas)" alt="" coords="152,301,243,408"/>
+<area shape="rect" id="node13" href="$classContainerReservas.html" title="Container para armazenamento de reservas em memoria." alt="" coords="458,941,595,1107"/>
+<area shape="rect" id="node14" title=" " alt="" coords="459,801,616,879"/>
+</map>

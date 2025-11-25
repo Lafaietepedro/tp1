@@ -1,0 +1,5 @@
+<map id="ContainerReservas::contarPorQuarto" name="ContainerReservas::contarPorQuarto">
+<area shape="rect" id="node1" title="Conta reservas de um quarto." alt="" coords="5,23,148,65"/>
+<area shape="rect" id="node2" href="$classCodigo.html#ac85ddffb159c47c1f4963d7ac0e3c031" title="Obtem o codigo." alt="" coords="199,5,288,32"/>
+<area shape="rect" id="node3" href="$classNumero.html#a892b8fcee819b7437473a507d6389d94" title="Obtem o numero." alt="" coords="196,56,291,83"/>
+</map>

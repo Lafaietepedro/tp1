@@ -1,0 +1,7 @@
+<map id="ContainerQuartos::adicionar" name="ContainerQuartos::adicionar">
+<area shape="rect" id="node1" title="Adiciona um quarto." alt="" coords="5,81,189,108"/>
+<area shape="rect" id="node2" href="$classCodigo.html#ac85ddffb159c47c1f4963d7ac0e3c031" title="Obtem o codigo." alt="" coords="272,5,361,32"/>
+<area shape="rect" id="node3" href="$classNumero.html#a892b8fcee819b7437473a507d6389d94" title="Obtem o numero." alt="" coords="269,56,364,83"/>
+<area shape="rect" id="node4" href="$classQuarto.html#afe56ef7b33c878df6577b021b738dfa3" title="Obtem o codigo do hotel ao qual pertence." alt="" coords="237,107,396,133"/>
+<area shape="rect" id="node5" href="$classQuarto.html#a6880bfb90f67de8ff0ca5a768f544a23" title="Obtem o numero do quarto." alt="" coords="250,157,383,184"/>
+</map>

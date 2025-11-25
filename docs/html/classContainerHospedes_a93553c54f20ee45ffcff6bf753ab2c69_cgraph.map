@@ -1,0 +1,4 @@
+<map id="ContainerHospedes::buscar" name="ContainerHospedes::buscar">
+<area shape="rect" id="node1" title="Busca um hospede por cartao." alt="" coords="5,5,151,47"/>
+<area shape="rect" id="node2" href="$classCartao.html#a315ff9ea8b9d11ab98c64a84b1870e66" title="Obtem o numero do cartao." alt="" coords="199,13,285,39"/>
+</map>

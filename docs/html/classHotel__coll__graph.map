@@ -1,0 +1,10 @@
+<map id="Hotel" name="Hotel">
+<area shape="rect" id="node1" title="Representa um hotel com suas informacoes basicas." alt="" coords="175,456,314,665"/>
+<area shape="rect" id="node2" href="$classTelefone.html" title="Representa um numero de telefone no formato +DDDDDDDDDDDDDD." alt="" coords="5,287,81,393"/>
+<area shape="rect" id="node3" title=" " alt="" coords="205,147,285,224"/>
+<area shape="rect" id="node5" href="$classCodigo.html" title="Representa um codigo alfanumerico de 10 caracteres (a&#45;z, 0&#45;9)" alt="" coords="105,287,181,393"/>
+<area shape="rect" id="node6" href="$classEndereco.html" title="Representa um endereco com 5 a 30 caracteres." alt="" coords="206,287,283,393"/>
+<area shape="rect" id="node7" href="$classNome.html" title="Representa um nome com 5 a 20 caracteres (letras ou espacos)" alt="" coords="308,287,384,393"/>
+<area shape="rect" id="node8" href="$classEmail.html" title="Representa um endereco de email valido (parte&#45;local@dominio)" alt="" coords="408,287,484,393"/>
+<area shape="rect" id="node4" title=" " alt="" coords="181,5,308,97"/>
+</map>

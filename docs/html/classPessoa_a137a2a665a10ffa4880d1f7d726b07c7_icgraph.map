@@ -1,0 +1,10 @@
+<map id="Pessoa::getEmail" name="Pessoa::getEmail">
+<area shape="rect" id="node1" title="Obtem o email da pessoa." alt="" coords="592,78,717,105"/>
+<area shape="rect" id="node2" href="$classContainerGerentes.html#a2015e402d9681f20110742330ed3e444" title="Adiciona um gerente." alt="" coords="387,5,525,47"/>
+<area shape="rect" id="node4" href="$classContainerGerentes.html#a5b697500b3dd9bf1b9704b287c9732be" title="Atualiza um gerente." alt="" coords="387,71,525,112"/>
+<area shape="rect" id="node6" href="$classControladoraApresentacaoGerente.html#a02083717cf10f66af3ae82749177a4c3" title=" " alt="" coords="368,136,544,177"/>
+<area shape="rect" id="node3" href="$classControladoraServicoAutenticacao.html#ad138dc7a2b086bffe2fc322188df0525" title="Cria uma nova conta de gerente." alt="" coords="104,5,320,47"/>
+<area shape="rect" id="node5" href="$classControladoraServicoGerente.html#ad8545125ccf55c6756910d4c00869728" title="Atualiza dados de um gerente." alt="" coords="119,71,305,112"/>
+<area shape="rect" id="node7" href="$classControladoraApresentacaoGerente.html#a6093e8977af3b7c15f9360a032a0de33" title="Executa o menu de gerenciamento de gerentes." alt="" coords="124,136,300,177"/>
+<area shape="rect" id="node8" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="Funcao principal." alt="" coords="5,143,56,170"/>
+</map>

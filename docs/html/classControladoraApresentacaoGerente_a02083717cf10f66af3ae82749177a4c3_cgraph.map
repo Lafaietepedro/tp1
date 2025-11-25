@@ -1,0 +1,17 @@
+<map id="ControladoraApresentacaoGerente::editarPerfil" name="ControladoraApresentacaoGerente::editarPerfil">
+<area shape="rect" id="node1" title=" " alt="" coords="5,251,181,293"/>
+<area shape="rect" id="node2" href="$classIServicoGerente.html#a28feaf72aef2be6529878f0ecdec1662" title="Atualiza dados de um gerente." alt="" coords="229,5,403,32"/>
+<area shape="rect" id="node3" href="$classIServicoGerente.html#ac9c3bd4c61a3abd07526825a2c974957" title="Busca um gerente por email." alt="" coords="235,56,397,83"/>
+<area shape="rect" id="node4" href="$classEmail.html#a8fa1da6448b64f4ae89662984b10e6b6" title="Obtem o email." alt="" coords="275,107,357,133"/>
+<area shape="rect" id="node5" href="$classNome.html#ac018899c816fa4f4f5fcf3375132360b" title="Obtem o nome." alt="" coords="275,157,357,184"/>
+<area shape="rect" id="node6" href="$classPessoa.html#a137a2a665a10ffa4880d1f7d726b07c7" title="Obtem o email da pessoa." alt="" coords="253,208,379,235"/>
+<area shape="rect" id="node7" href="$classPessoa.html#ad0c0448768ca2f5b5dfca86f156cdfe9" title="Obtem o nome da pessoa." alt="" coords="253,259,379,285"/>
+<area shape="rect" id="node8" href="$apresentacao_8cpp.html#a01a3f268deb31b1ffe17d947b6b62b71" title="Pausa a execucao ate o usuario pressionar Enter." alt="" coords="285,309,347,336"/>
+<area shape="rect" id="node10" href="$classNome.html#a6b1363639ee0442020d79c86f78e8762" title="Define o nome." alt="" coords="275,360,357,387"/>
+<area shape="rect" id="node12" href="$classSenha.html#a2b735f0b10104bc6ae02e08586633bc1" title="Define a senha." alt="" coords="273,411,359,437"/>
+<area shape="rect" id="node14" href="$classPessoa.html#a07eb389b22a0163d5d61617aa6c3fb64" title="Define o nome da pessoa." alt="" coords="253,461,379,488"/>
+<area shape="rect" id="node15" href="$classGerente.html#a6119cd362a7f0687ed613f77a76e1c7b" title="Define a senha do gerente." alt="" coords="251,512,381,539"/>
+<area shape="rect" id="node9" href="$apresentacao_8cpp.html#aa4babdda3b35e146a545f567fcd13fb3" title="Limpa o buffer de entrada." alt="" coords="458,309,549,336"/>
+<area shape="rect" id="node11" href="$classNome.html#a0f8a375558a40c9b0a6b1ab44487aa40" title=" " alt="" coords="452,360,555,387"/>
+<area shape="rect" id="node13" href="$classSenha.html#ac44607343a6883a44048471b76d1e3df" title=" " alt="" coords="451,411,556,437"/>
+</map>

@@ -1,0 +1,26 @@
+<map id="ControladoraApresentacaoQuarto::editarQuarto" name="ControladoraApresentacaoQuarto::editarQuarto">
+<area shape="rect" id="node1" title=" " alt="" coords="5,429,181,470"/>
+<area shape="rect" id="node2" href="$classIServicoQuarto.html#a72db7964289ef259a9275624e877d75f" title="Atualiza dados de um quarto." alt="" coords="229,5,396,32"/>
+<area shape="rect" id="node3" href="$classIServicoQuarto.html#a55fb468dbf260a5b8bb55404c80e2c5a" title="Busca um quarto por numero e codigo do hotel." alt="" coords="235,56,391,83"/>
+<area shape="rect" id="node4" href="$classCapacidade.html#a7b2fb0f6975fd369de9f2a2cd1caee29" title="Obtem a capacidade." alt="" coords="254,107,371,133"/>
+<area shape="rect" id="node5" href="$classRamal.html#a60d438de5221e66446b97a4caf04df75" title="Obtem o ramal." alt="" coords="269,157,356,184"/>
+<area shape="rect" id="node6" href="$classQuarto.html#a16adce70f7036ef2ce1aeec1d85fb1ea" title="Obtem a capacidade do quarto." alt="" coords="235,208,391,235"/>
+<area shape="rect" id="node7" href="$classQuarto.html#a5650e35fb3797aea46a302f854bec3e7" title="Obtem o valor da diaria." alt="" coords="252,259,373,285"/>
+<area shape="rect" id="node8" href="$classDinheiro.html#ae0ae176721431873302531851d023000" title="Obtem o valor formatado em reais." alt="" coords="233,309,392,336"/>
+<area shape="rect" id="node9" href="$classQuarto.html#aed3bbb13ee80fe3fef760f3afc674383" title="Obtem o ramal do quarto." alt="" coords="250,360,375,387"/>
+<area shape="rect" id="node10" href="$apresentacao_8cpp.html#aa4babdda3b35e146a545f567fcd13fb3" title="Limpa o buffer de entrada." alt="" coords="467,436,558,463"/>
+<area shape="rect" id="node11" href="$apresentacao_8cpp.html#a01a3f268deb31b1ffe17d947b6b62b71" title="Pausa a execucao ate o usuario pressionar Enter." alt="" coords="282,461,343,488"/>
+<area shape="rect" id="node12" href="$classCapacidade.html#a2c012a5db5df1eb4dabc2b880430a8fe" title="Define a capacidade." alt="" coords="254,512,371,539"/>
+<area shape="rect" id="node14" href="$classDinheiro.html#a79641fae938a717c5a322db9ff5f9876" title="Define o valor em centavos." alt="" coords="265,563,361,589"/>
+<area shape="rect" id="node16" href="$classNumero.html#a5c990173a4057f6268add8b71a61c378" title="Define o numero." alt="" coords="265,613,360,640"/>
+<area shape="rect" id="node18" href="$classRamal.html#ad4d3aa92c008818b84a9e2bb7f5fc610" title="Define o ramal." alt="" coords="269,664,356,691"/>
+<area shape="rect" id="node20" href="$classCodigo.html#a72b57b491a9fd290afbb9afbde059e86" title="Define o codigo." alt="" coords="268,715,357,741"/>
+<area shape="rect" id="node22" href="$classQuarto.html#a019b6175133ac917eee793caca7c99f4" title="Define a capacidade do quarto." alt="" coords="235,765,391,792"/>
+<area shape="rect" id="node23" href="$classQuarto.html#aeba242e700afbfde0ed9885ed3b69d17" title="Define o valor da diaria." alt="" coords="252,816,373,843"/>
+<area shape="rect" id="node24" href="$classQuarto.html#a27466dd3d750f6359ed414d1f6cf951c" title="Define o ramal do quarto." alt="" coords="250,867,375,893"/>
+<area shape="rect" id="node13" href="$classCapacidade.html#a7913b26c019b35a1901992106698519c" title=" " alt="" coords="444,512,581,539"/>
+<area shape="rect" id="node15" href="$classDinheiro.html#ad9cfae1a971bf002516ad45b50b6d901" title=" " alt="" coords="455,563,571,589"/>
+<area shape="rect" id="node17" href="$classNumero.html#aa653cf470c7b9ac498f7888d66bf7f63" title=" " alt="" coords="455,613,570,640"/>
+<area shape="rect" id="node19" href="$classRamal.html#ac4e5905d3d81b5f673fe6ed097ebdbce" title=" " alt="" coords="459,664,566,691"/>
+<area shape="rect" id="node21" href="$classCodigo.html#aedbb492294eec94107db134e04f53e2f" title=" " alt="" coords="458,715,567,741"/>
+</map>

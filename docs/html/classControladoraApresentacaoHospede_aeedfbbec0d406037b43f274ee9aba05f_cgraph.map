@@ -1,0 +1,15 @@
+<map id="ControladoraApresentacaoHospede::editarHospede" name="ControladoraApresentacaoHospede::editarHospede">
+<area shape="rect" id="node1" title=" " alt="" coords="5,175,181,217"/>
+<area shape="rect" id="node2" href="$classIServicoHospede.html#adbe99536c4e96ea9ebc5471f112cc52f" title="Atualiza dados de um hospede." alt="" coords="229,5,408,32"/>
+<area shape="rect" id="node3" href="$classIServicoHospede.html#ad15174483781fd89bf3626f0129b0f0a" title="Busca um hospede por cartao." alt="" coords="234,56,403,83"/>
+<area shape="rect" id="node4" href="$classEndereco.html#a560f410825eafe71b5fc4746d0143c2b" title="Obtem o endereco." alt="" coords="267,107,370,133"/>
+<area shape="rect" id="node5" href="$classHospede.html#a2220085147fac5f1bf00a1d3afedf3a4" title="Obtem o endereco do hospede." alt="" coords="241,157,396,184"/>
+<area shape="rect" id="node6" href="$apresentacao_8cpp.html#a01a3f268deb31b1ffe17d947b6b62b71" title="Pausa a execucao ate o usuario pressionar Enter." alt="" coords="288,208,349,235"/>
+<area shape="rect" id="node8" href="$classCartao.html#aa246c98ad23403d7628b2fe80812eafe" title="Define o numero do cartao." alt="" coords="275,259,362,285"/>
+<area shape="rect" id="node11" href="$classEndereco.html#a575be1188d2276c71cdcc635d51eaa2f" title="Define o endereco." alt="" coords="267,309,370,336"/>
+<area shape="rect" id="node13" href="$classHospede.html#a697df3276ceca8e7418c081e3728cd41" title="Define o endereco do hospede." alt="" coords="241,360,396,387"/>
+<area shape="rect" id="node7" href="$apresentacao_8cpp.html#aa4babdda3b35e146a545f567fcd13fb3" title="Limpa o buffer de entrada." alt="" coords="472,208,563,235"/>
+<area shape="rect" id="node9" href="$classCartao.html#acb58b558a6dd0d0d90e243fe659fb473" title=" " alt="" coords="464,259,571,285"/>
+<area shape="rect" id="node10" href="$classCartao.html#a8008bdf3e395919a7bdca53f81db434d" title=" " alt="" coords="627,259,761,285"/>
+<area shape="rect" id="node12" href="$classEndereco.html#ac309da5a7ede9e7b8d8fd4e4247c2f5f" title=" " alt="" coords="456,309,579,336"/>
+</map>

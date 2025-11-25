@@ -1,0 +1,4 @@
+<map id="ContainerGerentes::atualizar" name="ContainerGerentes::atualizar">
+<area shape="rect" id="node1" title="Atualiza um gerente." alt="" coords="240,5,379,47"/>
+<area shape="rect" id="node2" href="$classControladoraServicoGerente.html#ad8545125ccf55c6756910d4c00869728" title="Atualiza dados de um gerente." alt="" coords="5,5,192,47"/>
+</map>

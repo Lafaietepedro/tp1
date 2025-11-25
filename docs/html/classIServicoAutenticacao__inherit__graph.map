@@ -1,0 +1,4 @@
+<map id="IServicoAutenticacao" name="IServicoAutenticacao">
+<area shape="rect" id="node1" title="Interface para servicos de autenticacao." alt="" coords="36,5,211,112"/>
+<area shape="rect" id="node2" href="$classControladoraServicoAutenticacao.html" title="Implementa servicos de autenticacao." alt="" coords="5,160,241,267"/>
+</map>

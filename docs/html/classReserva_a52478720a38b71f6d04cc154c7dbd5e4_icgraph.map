@@ -1,0 +1,7 @@
+<map id="Reserva::getCodigo" name="Reserva::getCodigo">
+<area shape="rect" id="node1" title="Obtem o codigo da reserva." alt="" coords="433,46,572,73"/>
+<area shape="rect" id="node2" href="$classContainerReservas.html#a273aa501aa496b8936c3f9c560e16ff7" title="Adiciona uma reserva." alt="" coords="243,5,385,47"/>
+<area shape="rect" id="node4" href="$classContainerReservas.html#a6a3447fb12f912d53f2866a9106c5e5d" title="Atualiza uma reserva." alt="" coords="243,71,385,112"/>
+<area shape="rect" id="node3" href="$classControladoraServicoReserva.html#a00f6fc8c991239734313c89f941a4131" title="Cria uma nova reserva." alt="" coords="5,5,195,47"/>
+<area shape="rect" id="node5" href="$classControladoraServicoReserva.html#a421c862ebeae990ef7d911d46cc39683" title="Atualiza dados de uma reserva." alt="" coords="5,71,195,112"/>
+</map>
